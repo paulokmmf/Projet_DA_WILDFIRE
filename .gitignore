@@ -1,0 +1,6 @@
+
+venv
+data
+*.csv
+*.html
+*checkpoints
