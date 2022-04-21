@@ -3,3 +3,10 @@ fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.1)
 
 pour faire un graph représentant des cercles en fonction de la taille de feu :
 fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.4,s=fires.FIRE_SIZE_CLASS,label="taille de feu", figsize=(10,7),)
+
+Map avec taille de feu et années : https://www.kaggle.com/code/tsaustin/us-wildfires
+
+
+carte animée : https://www.kaggle.com/code/tsaustin/animated-map-of-us-wildfires
+
+leaflet map : https://www.datavis.fr/maps/leaflet-heatmap
