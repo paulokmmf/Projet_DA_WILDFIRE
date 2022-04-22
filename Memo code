@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OK réalisé : Pour faire un graph représentant la latitude et longitude (on utilise alpha pour distinguer les endroits où la densité des points est importante) :
 fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.1)
 
@@ -5,6 +6,15 @@ OK réalisé : pour faire un graph représentant des cercles en fonction de la t
 fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.4,s=fires.FIRE_SIZE_CLASS,label="taille de feu", figsize=(10,7),)
 
 OK réalisé : Map avec taille de feu et années : https://www.kaggle.com/code/tsaustin/us-wildfires
+=======
+OK REALISE : Pour faire un graph représentant la latitude et longitude (on utilise alpha pour distinguer les endroits où la densité des points est importante) :
+fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.1)
+
+OK REALISE : pour faire un graph représentant des cercles en fonction de la taille de feu :
+fires.plot(kind="scatter",x="LONGITUTDE",y="LATITUDE", alpha=0.4,s=fires.FIRE_SIZE_CLASS,label="taille de feu", figsize=(10,7),)
+
+OK REALISE : Map avec taille de feu et années : https://www.kaggle.com/code/tsaustin/us-wildfires
+>>>>>>> 60758c5881ee5d40280731363e33fa06ffac27a1
 
 
 OK réalisé : carte animée : https://www.kaggle.com/code/tsaustin/animated-map-of-us-wildfires
