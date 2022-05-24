@@ -1,50 +1,50 @@
 Etat_code;Etat_libelle;Climat
-AL;Alabama ÿÿÿ ÿÿÿ;subtropicalÿ
-AR;Arkansasÿÿÿ ÿÿÿ;subtropicalÿ
-AZ;Arizonaÿÿÿ ÿÿÿ ÿ;steppe
-CA;Californiaÿÿÿ ÿÿ;m‚dit‚ran‚en
-CO;Coloradoÿÿÿ ÿÿÿ;steppe
-CT;Connecticutÿÿÿ ÿ;continental humide ‚t‚ sec
-DE;Delawareÿÿÿ ÿÿÿ;subtropicalÿ
-FL;Floridaÿÿÿ ÿÿÿ ÿ;subtropicalÿ
-GA;Georgiaÿÿÿ ÿÿÿ ÿ;subtropicalÿ
-HI;Hawaiÿÿÿ ÿÿÿ ÿÿÿ;steppe
-IA;Iowaÿÿÿ ÿÿÿ ÿÿÿ;continental humide ‚t‚ sec
-ID;Idahoÿÿÿ ÿÿÿ ÿÿÿ;steppe
-IL;Illinoisÿÿÿ ÿÿÿ;continental humide ‚t‚ sec
-IN;Indianaÿÿÿ ÿÿÿ ÿ;continental humide ‚t‚ sec
-KS;Kansasÿÿÿ ÿÿÿ ÿÿ;steppe
-KY;Kentuckyÿÿÿ ÿÿÿ;subtropicalÿ
-LA;Louisianaÿÿÿ ÿÿÿ;subtropicalÿ
-MA;Massachusettsÿÿÿ;continental humide ‚t‚ sec
-MD;Marylandÿÿÿ ÿÿÿ;subtropicalÿ
-ME;Maineÿÿÿ ÿÿÿ ÿÿÿ;continental humide ‚t‚ frais
-MI;Michiganÿÿÿ ÿÿÿ;continental humide ‚t‚ frais
-MN;Minnesotaÿÿÿ ÿÿÿ;continental humide ‚t‚ frais
-MO;Missouriÿÿÿ ÿÿÿ;continental humide ‚t‚ sec
-MS;Mississippiÿÿÿ ÿ;subtropicalÿ
-MT;Montanaÿÿÿ ÿÿÿ ÿ;steppe
-NC;North Carolinaÿÿ;subtropicalÿ
-NE;Nebraskaÿÿÿ ÿÿÿ;steppe
-NH;New Hampshireÿÿÿ;continental humide ‚t‚ frais
-NJ;New Jerseyÿÿÿ ÿÿ;continental humide ‚t‚ sec
-NM;New Mexicoÿÿÿ ÿÿ;steppe
-NV;Nevadaÿÿÿ ÿÿÿ ÿÿ;steppe
-NY;New Yorkÿÿÿ ÿÿÿ;continental humide ‚t‚ frais
-OH;Ohioÿÿÿ ÿÿÿ ÿÿÿ;continental humide ‚t‚ sec
-OK;Oklahomaÿÿÿ ÿÿÿ;subtropicalÿ
-OR;Oregonÿÿÿ ÿÿÿ ÿÿ;steppe
-PA;Pennsylvaniaÿÿÿ;continental humide ‚t‚ sec
-PR;Puerto Ricoÿÿÿ ÿ;steppe
-RI;Rhode Islandÿÿÿ;continental humide ‚t‚ sec
-SC;South Carolinaÿÿ;subtropicalÿ
-SD;South Dakotaÿÿÿ;steppe
-TN;Tennesseeÿÿÿ ÿÿÿ;subtropicalÿ
-TX;Texasÿÿÿ ÿÿÿ ÿÿÿ;subtropicalÿ
-UT;Utahÿÿÿ ÿÿÿ ÿÿÿ;steppe
-VA;Virginiaÿÿÿ ÿÿÿ;subtropicalÿ
-VT;Vermontÿÿÿ ÿÿÿ ÿ;continental humide ‚t‚ frais
-WA;Washingtonÿÿÿ ÿÿ;steppe
-WI;Wisconsinÿÿÿ ÿÿÿ;continental humide ‚t‚ frais
-WV;West Virginiaÿÿÿ;subtropicalÿ
-WY;Wyomingÿÿÿ ÿÿÿ ÿ;steppe
+AL;Alabamaÿÿ;subtropical
+AR;Arkansas;subtropical
+AZ;Arizona;steppe
+CA;California;mediteraneen
+CO;Colorado;steppe
+CT;Connecticut;continental humide ete sec
+DE;Delaware;subtropical
+FL;Florida;subtropical
+GA;Georgiaÿ;subtropical
+HI;Hawai ÿÿÿ;steppe
+IA;Iowaÿ ÿÿÿ;continental humide ete sec
+ID;Idaho ÿÿÿ;steppe
+IL;Illinois;continental humide ete sec
+IN;Indianaÿ;continental humide ete sec
+KS;Kansas;steppe
+KY;Kentuckyÿ;subtropical
+LA;Louisiana;subtropical
+MA;Massachusetts;continental humide ete sec
+MD;Maryland;subtropical
+ME;Maineÿ;continental humide ete frais
+MI;Michigan;continental humide ete frais
+MN;Minnesotaÿ;continental humide ete frais
+MO;Missouriÿÿÿ;continental humide ete sec
+MS;Mississippi;subtropical
+MT;Montana;steppe
+NC;North_Carolina;subtropical
+NE;Nebraska;steppe
+NH;New_Hampshire;continental humide ete frais
+NJ;New_Jersey;continental humide ete sec
+NM;New_Mexico;steppe
+NV;Nevada;steppe
+NY;New_York;continental humide ete frais
+OH;Ohio;continental humide ete sec
+OK;Oklahomaÿ;subtropical
+OR;Oregon;steppe
+PA;Pennsylvania;continental humide ete sec
+PR;Puerto_Rico;steppe
+RI;Rhode_Island;continental humide ete sec
+SC;South_Carolina;subtropical
+SD;South_Dakota;steppe
+TN;Tennessee;subtropical
+TX;Texas;subtropical
+UT;Utah;steppe
+VA;Virginia;subtropical
+VT;Vermontÿ;continental humide ete frais
+WA;Washington;steppe
+WI;Wisconsin;continental humide ete frais
+WV;West_Virginia;subtropical
+WY;Wyoming;steppe
