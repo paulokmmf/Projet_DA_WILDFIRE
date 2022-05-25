@@ -743,30 +743,30 @@ North_Carolina;NC;2012;NC-2012;60,72;subtropical
 North_Carolina;NC;2013;NC-2013;58,56;subtropical
 North_Carolina;NC;2014;NC-2014;58,35;subtropical
 North_Carolina;NC;2015;NC-2015;60,52;subtropical
-North_Dakota;ND;1992;ND-1992;41,24;#N/A
-North_Dakota;ND;1993;ND-1993;38,28;#N/A
-North_Dakota;ND;1994;ND-1994;39,98;#N/A
-North_Dakota;ND;1995;ND-1995;39,63;#N/A
-North_Dakota;ND;1996;ND-1996;36,52;#N/A
-North_Dakota;ND;1997;ND-1997;40,69;#N/A
-North_Dakota;ND;1998;ND-1998;43,2;#N/A
-North_Dakota;ND;1999;ND-1999;42,96;#N/A
-North_Dakota;ND;2000;ND-2000;41,08;#N/A
-North_Dakota;ND;2001;ND-2001;42,24;#N/A
-North_Dakota;ND;2002;ND-2002;41;#N/A
-North_Dakota;ND;2003;ND-2003;40,77;#N/A
-North_Dakota;ND;2004;ND-2004;40,54;#N/A
-North_Dakota;ND;2005;ND-2005;42,4;#N/A
-North_Dakota;ND;2006;ND-2006;43,83;#N/A
-North_Dakota;ND;2007;ND-2007;41,77;#N/A
-North_Dakota;ND;2008;ND-2008;39,33;#N/A
-North_Dakota;ND;2009;ND-2009;38,52;#N/A
-North_Dakota;ND;2010;ND-2010;40,88;#N/A
-North_Dakota;ND;2011;ND-2011;40,66;#N/A
-North_Dakota;ND;2012;ND-2012;44,13;#N/A
-North_Dakota;ND;2013;ND-2013;38,79;#N/A
-North_Dakota;ND;2014;ND-2014;38,98;#N/A
-North_Dakota;ND;2015;ND-2015;43,38;#N/A
+North_Dakota;ND;1992;ND-1992;41,24;continental humide ete frais
+North_Dakota;ND;1993;ND-1993;38,28;continental humide ete frais
+North_Dakota;ND;1994;ND-1994;39,98;continental humide ete frais
+North_Dakota;ND;1995;ND-1995;39,63;continental humide ete frais
+North_Dakota;ND;1996;ND-1996;36,52;continental humide ete frais
+North_Dakota;ND;1997;ND-1997;40,69;continental humide ete frais
+North_Dakota;ND;1998;ND-1998;43,2;continental humide ete frais
+North_Dakota;ND;1999;ND-1999;42,96;continental humide ete frais
+North_Dakota;ND;2000;ND-2000;41,08;continental humide ete frais
+North_Dakota;ND;2001;ND-2001;42,24;continental humide ete frais
+North_Dakota;ND;2002;ND-2002;41;continental humide ete frais
+North_Dakota;ND;2003;ND-2003;40,77;continental humide ete frais
+North_Dakota;ND;2004;ND-2004;40,54;continental humide ete frais
+North_Dakota;ND;2005;ND-2005;42,4;continental humide ete frais
+North_Dakota;ND;2006;ND-2006;43,83;continental humide ete frais
+North_Dakota;ND;2007;ND-2007;41,77;continental humide ete frais
+North_Dakota;ND;2008;ND-2008;39,33;continental humide ete frais
+North_Dakota;ND;2009;ND-2009;38,52;continental humide ete frais
+North_Dakota;ND;2010;ND-2010;40,88;continental humide ete frais
+North_Dakota;ND;2011;ND-2011;40,66;continental humide ete frais
+North_Dakota;ND;2012;ND-2012;44,13;continental humide ete frais
+North_Dakota;ND;2013;ND-2013;38,79;continental humide ete frais
+North_Dakota;ND;2014;ND-2014;38,98;continental humide ete frais
+North_Dakota;ND;2015;ND-2015;43,38;continental humide ete frais
 Ohio;OH;1992;OH-1992;50,28;continental humide ete sec
 Ohio;OH;1993;OH-1993;50,4;continental humide ete sec
 Ohio;OH;1994;OH-1994;50,47;continental humide ete sec
@@ -1151,27 +1151,27 @@ Wyoming;WY;2012;WY-2012;44,79;steppe
 Wyoming;WY;2013;WY-2013;41,68;steppe
 Wyoming;WY;2014;WY-2014;42,13;steppe
 Wyoming;WY;2015;WY-2015;44,16;steppe
-Alaska;AK;1992;AK-1992;25,03;#N/A
-Alaska;AK;1993;AK-1993;29,9;#N/A
-Alaska;AK;1994;AK-1994;26,19;#N/A
-Alaska;AK;1995;AK-1995;27,78;#N/A
-Alaska;AK;1996;AK-1996;25,08;#N/A
-Alaska;AK;1997;AK-1997;28,13;#N/A
-Alaska;AK;1998;AK-1998;28,43;#N/A
-Alaska;AK;1999;AK-1999;24,04;#N/A
-Alaska;AK;2000;AK-2000;28,38;#N/A
-Alaska;AK;2001;AK-2001;27,33;#N/A
-Alaska;AK;2002;AK-2002;30,08;#N/A
-Alaska;AK;2003;AK-2003;29,11;#N/A
-Alaska;AK;2004;AK-2004;29,33;#N/A
-Alaska;AK;2005;AK-2005;29,18;#N/A
-Alaska;AK;2006;AK-2006;26,4;#N/A
-Alaska;AK;2007;AK-2007;28,08;#N/A
-Alaska;AK;2008;AK-2008;25,08;#N/A
-Alaska;AK;2009;AK-2009;26,76;#N/A
-Alaska;AK;2010;AK-2010;27,43;#N/A
-Alaska;AK;2011;AK-2011;26,95;#N/A
-Alaska;AK;2012;AK-2012;24,31;#N/A
-Alaska;AK;2013;AK-2013;27,8;#N/A
-Alaska;AK;2014;AK-2014;30,33;#N/A
-Alaska;AK;2015;AK-2015;30,03;#N/A
+Alaska;AK;1992;AK-1992;25,03;continental humide ete frais
+Alaska;AK;1993;AK-1993;29,9;continental humide ete frais
+Alaska;AK;1994;AK-1994;26,19;continental humide ete frais
+Alaska;AK;1995;AK-1995;27,78;continental humide ete frais
+Alaska;AK;1996;AK-1996;25,08;continental humide ete frais
+Alaska;AK;1997;AK-1997;28,13;continental humide ete frais
+Alaska;AK;1998;AK-1998;28,43;continental humide ete frais
+Alaska;AK;1999;AK-1999;24,04;continental humide ete frais
+Alaska;AK;2000;AK-2000;28,38;continental humide ete frais
+Alaska;AK;2001;AK-2001;27,33;continental humide ete frais
+Alaska;AK;2002;AK-2002;30,08;continental humide ete frais
+Alaska;AK;2003;AK-2003;29,11;continental humide ete frais
+Alaska;AK;2004;AK-2004;29,33;continental humide ete frais
+Alaska;AK;2005;AK-2005;29,18;continental humide ete frais
+Alaska;AK;2006;AK-2006;26,4;continental humide ete frais
+Alaska;AK;2007;AK-2007;28,08;continental humide ete frais
+Alaska;AK;2008;AK-2008;25,08;continental humide ete frais
+Alaska;AK;2009;AK-2009;26,76;continental humide ete frais
+Alaska;AK;2010;AK-2010;27,43;continental humide ete frais
+Alaska;AK;2011;AK-2011;26,95;continental humide ete frais
+Alaska;AK;2012;AK-2012;24,31;continental humide ete frais
+Alaska;AK;2013;AK-2013;27,8;continental humide ete frais
+Alaska;AK;2014;AK-2014;30,33;continental humide ete frais
+Alaska;AK;2015;AK-2015;30,03;continental humide ete frais
