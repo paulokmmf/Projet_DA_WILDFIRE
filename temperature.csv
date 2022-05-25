@@ -1,1177 +1,1177 @@
 code_state_year;temperature_mean;climat
-AL-1992;63,75;subtropical
-AL-1993;63,55;subtropical
-AL-1994;65,07;subtropical
-AL-1995;64,64;subtropical
-AL-1996;63,82;subtropical
-AL-1997;63,86;subtropical
-AL-1998;66,70;subtropical
-AL-1999;65,48;subtropical
-AL-2000;65,12;subtropical
-AL-2001;65,02;subtropical
-AL-2002;65,10;subtropical
-AL-2003;64,80;subtropical
-AL-2004;65,07;subtropical
-AL-2005;64,68;subtropical
-AL-2006;65,39;subtropical
-AL-2007;66,01;subtropical
-AL-2008;64,73;subtropical
-AL-2009;64,51;subtropical
-AL-2010;64,77;subtropical
-AL-2011;65,90;subtropical
-AL-2012;66,26;subtropical
-AL-2013;63,75;subtropical
-AL-2014;64,28;subtropical
-AL-2015;66,53;subtropical
-AZ-1992;61,41;steppe
-AZ-1993;61,28;steppe
-AZ-1994;62,13;steppe
-AZ-1995;62,73;steppe
-AZ-1996;63,48;steppe
-AZ-1997;62,21;steppe
-AZ-1998;60,68;steppe
-AZ-1999;62,18;steppe
-AZ-2000;63,12;steppe
-AZ-2001;63,10;steppe
-AZ-2002;62,89;steppe
-AZ-2003;63,09;steppe
-AZ-2004;62,01;steppe
-AZ-2005;62,59;steppe
-AZ-2006;62,67;steppe
-AZ-2007;63,65;steppe
-AZ-2008;62,51;steppe
-AZ-2009;62,53;steppe
-AZ-2010;62,05;steppe
-AZ-2011;62,05;steppe
-AZ-2012;63,64;steppe
-AZ-2013;62,44;steppe
-AZ-2014;63,68;steppe
-AZ-2015;63,26;steppe
-AR-1992;61,63;subtropical
-AR-1993;61,12;subtropical
-AR-1994;62,55;subtropical
-AR-1995;62,24;subtropical
-AR-1996;61,51;subtropical
-AR-1997;61,57;subtropical
-AR-1998;64,81;subtropical
-AR-1999;63,93;subtropical
-AR-2000;62,63;subtropical
-AR-2001;63,43;subtropical
-AR-2002;62,23;subtropical
-AR-2003;62,40;subtropical
-AR-2004;62,85;subtropical
-AR-2005;63,53;subtropical
-AR-2006;63,31;subtropical
-AR-2007;63,80;subtropical
-AR-2008;61,75;subtropical
-AR-2009;61,88;subtropical
-AR-2010;63,42;subtropical
-AR-2011;64,02;subtropical
-AR-2012;65,34;subtropical
-AR-2013;61,24;subtropical
-AR-2014;60,80;subtropical
-AR-2015;63,47;subtropical
-CA-1992;60,73;mediteraneen
-CA-1993;59,15;mediteraneen
-CA-1994;59,13;mediteraneen
-CA-1995;60,23;mediteraneen
-CA-1996;60,83;mediteraneen
-CA-1997;60,45;mediteraneen
-CA-1998;57,76;mediteraneen
-CA-1999;59,14;mediteraneen
-CA-2000;59,98;mediteraneen
-CA-2001;60,65;mediteraneen
-CA-2002;60,35;mediteraneen
-CA-2003;60,28;mediteraneen
-CA-2004;60,25;mediteraneen
-CA-2005;59,92;mediteraneen
-CA-2006;59,92;mediteraneen
-CA-2007;60,51;mediteraneen
-CA-2008;60,54;mediteraneen
-CA-2009;59,92;mediteraneen
-CA-2010;58,86;mediteraneen
-CA-2011;58,55;mediteraneen
-CA-2012;60,69;mediteraneen
-CA-2013;60,88;mediteraneen
-CA-2014;62,48;mediteraneen
-CA-2015;61,86;mediteraneen
-CO-1992;47,14;steppe
-CO-1993;45,66;steppe
-CO-1994;48,31;steppe
-CO-1995;47,36;steppe
-CO-1996;47,72;steppe
-CO-1997;46,67;steppe
-CO-1998;47,89;steppe
-CO-1999;48,17;steppe
-CO-2000;48,63;steppe
-CO-2001;48,86;steppe
-CO-2002;47,96;steppe
-CO-2003;48,43;steppe
-CO-2004;47,63;steppe
-CO-2005;48,27;steppe
-CO-2006;48,02;steppe
-CO-2007;48,61;steppe
-CO-2008;47,13;steppe
-CO-2009;46,72;steppe
-CO-2010;47,97;steppe
-CO-2011;47,38;steppe
-CO-2012;50,04;steppe
-CO-2013;47,11;steppe
-CO-2014;47,85;steppe
-CO-2015;49,10;steppe
-CT-1992;49,45;continental humide ete sec
-CT-1993;50,41;continental humide ete sec
-CT-1994;51,60;continental humide ete sec
-CT-1995;50,55;continental humide ete sec
-CT-1996;50,48;continental humide ete sec
-CT-1997;50,62;continental humide ete sec
-CT-1998;53,27;continental humide ete sec
-CT-1999;52,98;continental humide ete sec
-CT-2000;50,71;continental humide ete sec
-CT-2001;52,46;continental humide ete sec
-CT-2002;52,03;continental humide ete sec
-CT-2003;50,59;continental humide ete sec
-CT-2004;51,49;continental humide ete sec
-CT-2005;51,80;continental humide ete sec
-CT-2006;52,72;continental humide ete sec
-CT-2007;51,19;continental humide ete sec
-CT-2008;51,52;continental humide ete sec
-CT-2009;51,37;continental humide ete sec
-CT-2010;53,56;continental humide ete sec
-CT-2011;53,37;continental humide ete sec
-CT-2012;54,35;continental humide ete sec
-CT-2013;51,69;continental humide ete sec
-CT-2014;50,95;continental humide ete sec
-CT-2015;52,25;continental humide ete sec
-DE-1992;55,54;subtropical
-DE-1993;56,37;subtropical
-DE-1994;57,47;subtropical
-DE-1995;56,64;subtropical
-DE-1996;55,97;subtropical
-DE-1997;56,72;subtropical
-DE-1998;58,85;subtropical
-DE-1999;58,18;subtropical
-DE-2000;56,69;subtropical
-DE-2001;58,18;subtropical
-DE-2002;58,72;subtropical
-DE-2003;56,85;subtropical
-DE-2004;58,28;subtropical
-DE-2005;57,67;subtropical
-DE-2006;58,71;subtropical
-DE-2007;57,76;subtropical
-DE-2008;58,09;subtropical
-DE-2009;57,67;subtropical
-DE-2010;58,79;subtropical
-DE-2011;59,89;subtropical
-DE-2012;60,22;subtropical
-DE-2013;57,50;subtropical
-DE-2014;56,96;subtropical
-DE-2015;58,63;subtropical
-FL-1992;71,54;subtropical
-FL-1993;70,92;subtropical
-FL-1994;72,89;subtropical
-FL-1995;72,08;subtropical
-FL-1996;71,10;subtropical
-FL-1997;72,21;subtropical
-FL-1998;73,58;subtropical
-FL-1999;72,12;subtropical
-FL-2000;71,68;subtropical
-FL-2001;72,56;subtropical
-FL-2002;72,38;subtropical
-FL-2003;72,56;subtropical
-FL-2004;72,09;subtropical
-FL-2005;71,82;subtropical
-FL-2006;72,32;subtropical
-FL-2007;72,70;subtropical
-FL-2008;71,96;subtropical
-FL-2009;72,43;subtropical
-FL-2010;70,71;subtropical
-FL-2011;73,21;subtropical
-FL-2012;73,04;subtropical
-FL-2013;72,38;subtropical
-FL-2014;72,11;subtropical
-FL-2015;74,70;subtropical
-GA-1992;64,24;subtropical
-GA-1993;64,40;subtropical
-GA-1994;65,56;subtropical
-GA-1995;65,04;subtropical
-GA-1996;64,29;subtropical
-GA-1997;64,59;subtropical
-GA-1998;67,16;subtropical
-GA-1999;65,82;subtropical
-GA-2000;64,91;subtropical
-GA-2001;65,82;subtropical
-GA-2002;65,84;subtropical
-GA-2003;65,23;subtropical
-GA-2004;65,70;subtropical
-GA-2005;65,09;subtropical
-GA-2006;65,71;subtropical
-GA-2007;66,22;subtropical
-GA-2008;65,20;subtropical
-GA-2009;64,97;subtropical
-GA-2010;64,88;subtropical
-GA-2011;66,72;subtropical
-GA-2012;66,91;subtropical
-GA-2013;64,38;subtropical
-GA-2014;65,05;subtropical
-GA-2015;67,16;subtropical
-ID-1992;46,70;steppe
-ID-1993;42,89;steppe
-ID-1994;45,75;steppe
-ID-1995;45,20;steppe
-ID-1996;44,92;steppe
-ID-1997;44,97;steppe
-ID-1998;45,82;steppe
-ID-1999;45,08;steppe
-ID-2000;45,59;steppe
-ID-2001;46,17;steppe
-ID-2002;44,75;steppe
-ID-2003;46,64;steppe
-ID-2004;46,09;steppe
-ID-2005;45,14;steppe
-ID-2006;45,66;steppe
-ID-2007;46,96;steppe
-ID-2008;44,58;steppe
-ID-2009;44,44;steppe
-ID-2010;44,70;steppe
-ID-2011;44,05;steppe
-ID-2012;46,76;steppe
-ID-2013;45,85;steppe
-ID-2014;46,68;steppe
-ID-2015;47,98;steppe
-IL-1992;53,78;continental humide ete sec
-IL-1993;52,96;continental humide ete sec
-IL-1994;54,91;continental humide ete sec
-IL-1995;53,94;continental humide ete sec
-IL-1996;52,46;continental humide ete sec
-IL-1997;53,65;continental humide ete sec
-IL-1998;57,35;continental humide ete sec
-IL-1999;56,12;continental humide ete sec
-IL-2000;54,46;continental humide ete sec
-IL-2001;55,87;continental humide ete sec
-IL-2002;55,03;continental humide ete sec
-IL-2003;54,35;continental humide ete sec
-IL-2004;55,12;continental humide ete sec
-IL-2005;55,93;continental humide ete sec
-IL-2006;55,45;continental humide ete sec
-IL-2007;55,80;continental humide ete sec
-IL-2008;53,10;continental humide ete sec
-IL-2009;54,23;continental humide ete sec
-IL-2010;55,75;continental humide ete sec
-IL-2011;55,92;continental humide ete sec
-IL-2012;57,95;continental humide ete sec
-IL-2013;53,07;continental humide ete sec
-IL-2014;52,23;continental humide ete sec
-IL-2015;55,35;continental humide ete sec
-IN-1992;53,18;continental humide ete sec
-IN-1993;52,64;continental humide ete sec
-IN-1994;54,34;continental humide ete sec
-IN-1995;53,62;continental humide ete sec
-IN-1996;52,31;continental humide ete sec
-IN-1997;52,99;continental humide ete sec
-IN-1998;56,78;continental humide ete sec
-IN-1999;55,59;continental humide ete sec
-IN-2000;53,82;continental humide ete sec
-IN-2001;55,55;continental humide ete sec
-IN-2002;54,85;continental humide ete sec
-IN-2003;53,75;continental humide ete sec
-IN-2004;54,74;continental humide ete sec
-IN-2005;54,94;continental humide ete sec
-IN-2006;54,73;continental humide ete sec
-IN-2007;55,20;continental humide ete sec
-IN-2008;53,16;continental humide ete sec
-IN-2009;54,01;continental humide ete sec
-IN-2010;55,21;continental humide ete sec
-IN-2011;55,74;continental humide ete sec
-IN-2012;57,20;continental humide ete sec
-IN-2013;53,15;continental humide ete sec
-IN-2014;52,14;continental humide ete sec
-IN-2015;54,76;continental humide ete sec
-IA-1992;49,72;continental humide ete sec
-IA-1993;48,22;continental humide ete sec
-IA-1994;50,82;continental humide ete sec
-IA-1995;49,89;continental humide ete sec
-IA-1996;47,84;continental humide ete sec
-IA-1997;50,05;continental humide ete sec
-IA-1998;53,41;continental humide ete sec
-IA-1999;52,63;continental humide ete sec
-IA-2000;51,09;continental humide ete sec
-IA-2001;51,63;continental humide ete sec
-IA-2002;51,04;continental humide ete sec
-IA-2003;50,54;continental humide ete sec
-IA-2004;51,32;continental humide ete sec
-IA-2005;52,41;continental humide ete sec
-IA-2006;52,03;continental humide ete sec
-IA-2007;51,37;continental humide ete sec
-IA-2008;48,58;continental humide ete sec
-IA-2009;49,75;continental humide ete sec
-IA-2010;51,34;continental humide ete sec
-IA-2011;51,46;continental humide ete sec
-IA-2012;54,40;continental humide ete sec
-IA-2013;48,90;continental humide ete sec
-IA-2014;48,30;continental humide ete sec
-IA-2015;51,78;continental humide ete sec
-KS-1992;55,77;steppe
-KS-1993;54,40;steppe
-KS-1994;57,29;steppe
-KS-1995;55,99;steppe
-KS-1996;55,45;steppe
-KS-1997;55,95;steppe
-KS-1998;58,47;steppe
-KS-1999;58,20;steppe
-KS-2000;57,55;steppe
-KS-2001;58,18;steppe
-KS-2002;57,13;steppe
-KS-2003;57,07;steppe
-KS-2004;57,31;steppe
-KS-2005;58,25;steppe
-KS-2006;58,29;steppe
-KS-2007;57,63;steppe
-KS-2008;55,72;steppe
-KS-2009;55,62;steppe
-KS-2010;57,83;steppe
-KS-2011;57,75;steppe
-KS-2012;60,23;steppe
-KS-2013;55,66;steppe
-KS-2014;55,87;steppe
-KS-2015;58,50;steppe
-KY-1992;56,85;subtropical
-KY-1993;56,57;subtropical
-KY-1994;57,97;subtropical
-KY-1995;57,22;subtropical
-KY-1996;56,40;subtropical
-KY-1997;56,47;subtropical
-KY-1998;59,76;subtropical
-KY-1999;59,05;subtropical
-KY-2000;57,65;subtropical
-KY-2001;58,85;subtropical
-KY-2002;58,55;subtropical
-KY-2003;57,68;subtropical
-KY-2004;58,58;subtropical
-KY-2005;58,40;subtropical
-KY-2006;58,05;subtropical
-KY-2007;59,51;subtropical
-KY-2008;57,35;subtropical
-KY-2009;57,68;subtropical
-KY-2010;58,39;subtropical
-KY-2011;59,35;subtropical
-KY-2012;60,20;subtropical
-KY-2013;56,71;subtropical
-KY-2014;56,85;subtropical
-KY-2015;58,78;subtropical
-LA-1992;67,43;subtropical
-LA-1993;66,95;subtropical
-LA-1994;68,23;subtropical
-LA-1995;68,26;subtropical
-LA-1996;67,72;subtropical
-LA-1997;67,57;subtropical
-LA-1998;70,04;subtropical
-LA-1999;69,10;subtropical
-LA-2000;68,57;subtropical
-LA-2001;68,57;subtropical
-LA-2002;68,03;subtropical
-LA-2003;68,26;subtropical
-LA-2004;68,68;subtropical
-LA-2005;68,75;subtropical
-LA-2006;68,90;subtropical
+AL-1992;63.75;subtropical
+AL-1993;63.55;subtropical
+AL-1994;65.07;subtropical
+AL-1995;64.64;subtropical
+AL-1996;63.82;subtropical
+AL-1997;63.86;subtropical
+AL-1998;66.7;subtropical
+AL-1999;65.48;subtropical
+AL-2000;65.12;subtropical
+AL-2001;65.02;subtropical
+AL-2002;65.1;subtropical
+AL-2003;64.8;subtropical
+AL-2004;65.07;subtropical
+AL-2005;64.68;subtropical
+AL-2006;65.39;subtropical
+AL-2007;66.01;subtropical
+AL-2008;64.73;subtropical
+AL-2009;64.51;subtropical
+AL-2010;64.77;subtropical
+AL-2011;65.9;subtropical
+AL-2012;66.26;subtropical
+AL-2013;63.75;subtropical
+AL-2014;64.28;subtropical
+AL-2015;66.53;subtropical
+AZ-1992;61.41;steppe
+AZ-1993;61.28;steppe
+AZ-1994;62.13;steppe
+AZ-1995;62.73;steppe
+AZ-1996;63.48;steppe
+AZ-1997;62.21;steppe
+AZ-1998;60.68;steppe
+AZ-1999;62.18;steppe
+AZ-2000;63.12;steppe
+AZ-2001;63.1;steppe
+AZ-2002;62.89;steppe
+AZ-2003;63.09;steppe
+AZ-2004;62.01;steppe
+AZ-2005;62.59;steppe
+AZ-2006;62.67;steppe
+AZ-2007;63.65;steppe
+AZ-2008;62.51;steppe
+AZ-2009;62.53;steppe
+AZ-2010;62.05;steppe
+AZ-2011;62.05;steppe
+AZ-2012;63.64;steppe
+AZ-2013;62.44;steppe
+AZ-2014;63.68;steppe
+AZ-2015;63.26;steppe
+AR-1992;61.63;subtropical
+AR-1993;61.12;subtropical
+AR-1994;62.55;subtropical
+AR-1995;62.24;subtropical
+AR-1996;61.51;subtropical
+AR-1997;61.57;subtropical
+AR-1998;64.81;subtropical
+AR-1999;63.93;subtropical
+AR-2000;62.63;subtropical
+AR-2001;63.43;subtropical
+AR-2002;62.23;subtropical
+AR-2003;62.4;subtropical
+AR-2004;62.85;subtropical
+AR-2005;63.53;subtropical
+AR-2006;63.31;subtropical
+AR-2007;63.8;subtropical
+AR-2008;61.75;subtropical
+AR-2009;61.88;subtropical
+AR-2010;63.42;subtropical
+AR-2011;64.02;subtropical
+AR-2012;65.34;subtropical
+AR-2013;61.24;subtropical
+AR-2014;60.8;subtropical
+AR-2015;63.47;subtropical
+CA-1992;60.73;mediteraneen
+CA-1993;59.15;mediteraneen
+CA-1994;59.13;mediteraneen
+CA-1995;60.23;mediteraneen
+CA-1996;60.83;mediteraneen
+CA-1997;60.45;mediteraneen
+CA-1998;57.76;mediteraneen
+CA-1999;59.14;mediteraneen
+CA-2000;59.98;mediteraneen
+CA-2001;60.65;mediteraneen
+CA-2002;60.35;mediteraneen
+CA-2003;60.28;mediteraneen
+CA-2004;60.25;mediteraneen
+CA-2005;59.92;mediteraneen
+CA-2006;59.92;mediteraneen
+CA-2007;60.51;mediteraneen
+CA-2008;60.54;mediteraneen
+CA-2009;59.92;mediteraneen
+CA-2010;58.86;mediteraneen
+CA-2011;58.55;mediteraneen
+CA-2012;60.69;mediteraneen
+CA-2013;60.88;mediteraneen
+CA-2014;62.48;mediteraneen
+CA-2015;61.86;mediteraneen
+CO-1992;47.14;steppe
+CO-1993;45.66;steppe
+CO-1994;48.31;steppe
+CO-1995;47.36;steppe
+CO-1996;47.72;steppe
+CO-1997;46.67;steppe
+CO-1998;47.89;steppe
+CO-1999;48.17;steppe
+CO-2000;48.63;steppe
+CO-2001;48.86;steppe
+CO-2002;47.96;steppe
+CO-2003;48.43;steppe
+CO-2004;47.63;steppe
+CO-2005;48.27;steppe
+CO-2006;48.02;steppe
+CO-2007;48.61;steppe
+CO-2008;47.13;steppe
+CO-2009;46.72;steppe
+CO-2010;47.97;steppe
+CO-2011;47.38;steppe
+CO-2012;50.04;steppe
+CO-2013;47.11;steppe
+CO-2014;47.85;steppe
+CO-2015;49.1;steppe
+CT-1992;49.45;continental humide ete sec
+CT-1993;50.41;continental humide ete sec
+CT-1994;51.6;continental humide ete sec
+CT-1995;50.55;continental humide ete sec
+CT-1996;50.48;continental humide ete sec
+CT-1997;50.62;continental humide ete sec
+CT-1998;53.27;continental humide ete sec
+CT-1999;52.98;continental humide ete sec
+CT-2000;50.71;continental humide ete sec
+CT-2001;52.46;continental humide ete sec
+CT-2002;52.03;continental humide ete sec
+CT-2003;50.59;continental humide ete sec
+CT-2004;51.49;continental humide ete sec
+CT-2005;51.8;continental humide ete sec
+CT-2006;52.72;continental humide ete sec
+CT-2007;51.19;continental humide ete sec
+CT-2008;51.52;continental humide ete sec
+CT-2009;51.37;continental humide ete sec
+CT-2010;53.56;continental humide ete sec
+CT-2011;53.37;continental humide ete sec
+CT-2012;54.35;continental humide ete sec
+CT-2013;51.69;continental humide ete sec
+CT-2014;50.95;continental humide ete sec
+CT-2015;52.25;continental humide ete sec
+DE-1992;55.54;subtropical
+DE-1993;56.37;subtropical
+DE-1994;57.47;subtropical
+DE-1995;56.64;subtropical
+DE-1996;55.97;subtropical
+DE-1997;56.72;subtropical
+DE-1998;58.85;subtropical
+DE-1999;58.18;subtropical
+DE-2000;56.69;subtropical
+DE-2001;58.18;subtropical
+DE-2002;58.72;subtropical
+DE-2003;56.85;subtropical
+DE-2004;58.28;subtropical
+DE-2005;57.67;subtropical
+DE-2006;58.71;subtropical
+DE-2007;57.76;subtropical
+DE-2008;58.09;subtropical
+DE-2009;57.67;subtropical
+DE-2010;58.79;subtropical
+DE-2011;59.89;subtropical
+DE-2012;60.22;subtropical
+DE-2013;57.5;subtropical
+DE-2014;56.96;subtropical
+DE-2015;58.63;subtropical
+FL-1992;71.54;subtropical
+FL-1993;70.92;subtropical
+FL-1994;72.89;subtropical
+FL-1995;72.08;subtropical
+FL-1996;71.1;subtropical
+FL-1997;72.21;subtropical
+FL-1998;73.58;subtropical
+FL-1999;72.12;subtropical
+FL-2000;71.68;subtropical
+FL-2001;72.56;subtropical
+FL-2002;72.38;subtropical
+FL-2003;72.56;subtropical
+FL-2004;72.09;subtropical
+FL-2005;71.82;subtropical
+FL-2006;72.32;subtropical
+FL-2007;72.7;subtropical
+FL-2008;71.96;subtropical
+FL-2009;72.43;subtropical
+FL-2010;70.71;subtropical
+FL-2011;73.21;subtropical
+FL-2012;73.04;subtropical
+FL-2013;72.38;subtropical
+FL-2014;72.11;subtropical
+FL-2015;74.7;subtropical
+GA-1992;64.24;subtropical
+GA-1993;64.4;subtropical
+GA-1994;65.56;subtropical
+GA-1995;65.04;subtropical
+GA-1996;64.29;subtropical
+GA-1997;64.59;subtropical
+GA-1998;67.16;subtropical
+GA-1999;65.82;subtropical
+GA-2000;64.91;subtropical
+GA-2001;65.82;subtropical
+GA-2002;65.84;subtropical
+GA-2003;65.23;subtropical
+GA-2004;65.7;subtropical
+GA-2005;65.09;subtropical
+GA-2006;65.71;subtropical
+GA-2007;66.22;subtropical
+GA-2008;65.2;subtropical
+GA-2009;64.97;subtropical
+GA-2010;64.88;subtropical
+GA-2011;66.72;subtropical
+GA-2012;66.91;subtropical
+GA-2013;64.38;subtropical
+GA-2014;65.05;subtropical
+GA-2015;67.16;subtropical
+ID-1992;46.7;steppe
+ID-1993;42.89;steppe
+ID-1994;45.75;steppe
+ID-1995;45.2;steppe
+ID-1996;44.92;steppe
+ID-1997;44.97;steppe
+ID-1998;45.82;steppe
+ID-1999;45.08;steppe
+ID-2000;45.59;steppe
+ID-2001;46.17;steppe
+ID-2002;44.75;steppe
+ID-2003;46.64;steppe
+ID-2004;46.09;steppe
+ID-2005;45.14;steppe
+ID-2006;45.66;steppe
+ID-2007;46.96;steppe
+ID-2008;44.58;steppe
+ID-2009;44.44;steppe
+ID-2010;44.7;steppe
+ID-2011;44.05;steppe
+ID-2012;46.76;steppe
+ID-2013;45.85;steppe
+ID-2014;46.68;steppe
+ID-2015;47.98;steppe
+IL-1992;53.78;continental humide ete sec
+IL-1993;52.96;continental humide ete sec
+IL-1994;54.91;continental humide ete sec
+IL-1995;53.94;continental humide ete sec
+IL-1996;52.46;continental humide ete sec
+IL-1997;53.65;continental humide ete sec
+IL-1998;57.35;continental humide ete sec
+IL-1999;56.12;continental humide ete sec
+IL-2000;54.46;continental humide ete sec
+IL-2001;55.87;continental humide ete sec
+IL-2002;55.03;continental humide ete sec
+IL-2003;54.35;continental humide ete sec
+IL-2004;55.12;continental humide ete sec
+IL-2005;55.93;continental humide ete sec
+IL-2006;55.45;continental humide ete sec
+IL-2007;55.8;continental humide ete sec
+IL-2008;53.1;continental humide ete sec
+IL-2009;54.23;continental humide ete sec
+IL-2010;55.75;continental humide ete sec
+IL-2011;55.92;continental humide ete sec
+IL-2012;57.95;continental humide ete sec
+IL-2013;53.07;continental humide ete sec
+IL-2014;52.23;continental humide ete sec
+IL-2015;55.35;continental humide ete sec
+IN-1992;53.18;continental humide ete sec
+IN-1993;52.64;continental humide ete sec
+IN-1994;54.34;continental humide ete sec
+IN-1995;53.62;continental humide ete sec
+IN-1996;52.31;continental humide ete sec
+IN-1997;52.99;continental humide ete sec
+IN-1998;56.78;continental humide ete sec
+IN-1999;55.59;continental humide ete sec
+IN-2000;53.82;continental humide ete sec
+IN-2001;55.55;continental humide ete sec
+IN-2002;54.85;continental humide ete sec
+IN-2003;53.75;continental humide ete sec
+IN-2004;54.74;continental humide ete sec
+IN-2005;54.94;continental humide ete sec
+IN-2006;54.73;continental humide ete sec
+IN-2007;55.2;continental humide ete sec
+IN-2008;53.16;continental humide ete sec
+IN-2009;54.01;continental humide ete sec
+IN-2010;55.21;continental humide ete sec
+IN-2011;55.74;continental humide ete sec
+IN-2012;57.2;continental humide ete sec
+IN-2013;53.15;continental humide ete sec
+IN-2014;52.14;continental humide ete sec
+IN-2015;54.76;continental humide ete sec
+IA-1992;49.72;continental humide ete sec
+IA-1993;48.22;continental humide ete sec
+IA-1994;50.82;continental humide ete sec
+IA-1995;49.89;continental humide ete sec
+IA-1996;47.84;continental humide ete sec
+IA-1997;50.05;continental humide ete sec
+IA-1998;53.41;continental humide ete sec
+IA-1999;52.63;continental humide ete sec
+IA-2000;51.09;continental humide ete sec
+IA-2001;51.63;continental humide ete sec
+IA-2002;51.04;continental humide ete sec
+IA-2003;50.54;continental humide ete sec
+IA-2004;51.32;continental humide ete sec
+IA-2005;52.41;continental humide ete sec
+IA-2006;52.03;continental humide ete sec
+IA-2007;51.37;continental humide ete sec
+IA-2008;48.58;continental humide ete sec
+IA-2009;49.75;continental humide ete sec
+IA-2010;51.34;continental humide ete sec
+IA-2011;51.46;continental humide ete sec
+IA-2012;54.4;continental humide ete sec
+IA-2013;48.9;continental humide ete sec
+IA-2014;48.3;continental humide ete sec
+IA-2015;51.78;continental humide ete sec
+KS-1992;55.77;steppe
+KS-1993;54.4;steppe
+KS-1994;57.29;steppe
+KS-1995;55.99;steppe
+KS-1996;55.45;steppe
+KS-1997;55.95;steppe
+KS-1998;58.47;steppe
+KS-1999;58.2;steppe
+KS-2000;57.55;steppe
+KS-2001;58.18;steppe
+KS-2002;57.13;steppe
+KS-2003;57.07;steppe
+KS-2004;57.31;steppe
+KS-2005;58.25;steppe
+KS-2006;58.29;steppe
+KS-2007;57.63;steppe
+KS-2008;55.72;steppe
+KS-2009;55.62;steppe
+KS-2010;57.83;steppe
+KS-2011;57.75;steppe
+KS-2012;60.23;steppe
+KS-2013;55.66;steppe
+KS-2014;55.87;steppe
+KS-2015;58.5;steppe
+KY-1992;56.85;subtropical
+KY-1993;56.57;subtropical
+KY-1994;57.97;subtropical
+KY-1995;57.22;subtropical
+KY-1996;56.4;subtropical
+KY-1997;56.47;subtropical
+KY-1998;59.76;subtropical
+KY-1999;59.05;subtropical
+KY-2000;57.65;subtropical
+KY-2001;58.85;subtropical
+KY-2002;58.55;subtropical
+KY-2003;57.68;subtropical
+KY-2004;58.58;subtropical
+KY-2005;58.4;subtropical
+KY-2006;58.05;subtropical
+KY-2007;59.51;subtropical
+KY-2008;57.35;subtropical
+KY-2009;57.68;subtropical
+KY-2010;58.39;subtropical
+KY-2011;59.35;subtropical
+KY-2012;60.2;subtropical
+KY-2013;56.71;subtropical
+KY-2014;56.85;subtropical
+KY-2015;58.78;subtropical
+LA-1992;67.43;subtropical
+LA-1993;66.95;subtropical
+LA-1994;68.23;subtropical
+LA-1995;68.26;subtropical
+LA-1996;67.72;subtropical
+LA-1997;67.57;subtropical
+LA-1998;70.04;subtropical
+LA-1999;69.1;subtropical
+LA-2000;68.57;subtropical
+LA-2001;68.57;subtropical
+LA-2002;68.03;subtropical
+LA-2003;68.26;subtropical
+LA-2004;68.68;subtropical
+LA-2005;68.75;subtropical
+LA-2006;68.9;subtropical
 LA-2007;69,00;subtropical
-LA-2008;68,30;subtropical
-LA-2009;68,34;subtropical
-LA-2010;68,35;subtropical
-LA-2011;69,61;subtropical
-LA-2012;69,95;subtropical
-LA-2013;67,50;subtropical
-LA-2014;67,05;subtropical
-LA-2015;69,99;subtropical
-ME-1992;42,15;continental humide ete frais
-ME-1993;42,21;continental humide ete frais
-ME-1994;43,72;continental humide ete frais
-ME-1995;42,85;continental humide ete frais
-ME-1996;43,45;continental humide ete frais
-ME-1997;42,17;continental humide ete frais
-ME-1998;45,83;continental humide ete frais
-ME-1999;46,48;continental humide ete frais
-ME-2000;43,37;continental humide ete frais
-ME-2001;45,25;continental humide ete frais
-ME-2002;43,58;continental humide ete frais
-ME-2003;43,29;continental humide ete frais
-ME-2004;43,54;continental humide ete frais
-ME-2005;44,59;continental humide ete frais
-ME-2006;45,92;continental humide ete frais
-ME-2007;42,85;continental humide ete frais
-ME-2008;43,70;continental humide ete frais
-ME-2009;43,85;continental humide ete frais
-ME-2010;46,85;continental humide ete frais
-ME-2011;45,26;continental humide ete frais
-ME-2012;46,19;continental humide ete frais
-ME-2013;44,35;continental humide ete frais
-ME-2014;43,65;continental humide ete frais
-ME-2015;43,91;continental humide ete frais
-MD-1992;55,15;subtropical
-MD-1993;55,79;subtropical
-MD-1994;56,94;subtropical
-MD-1995;56,01;subtropical
-MD-1996;55,30;subtropical
-MD-1997;55,93;subtropical
-MD-1998;58,53;subtropical
-MD-1999;57,49;subtropical
-MD-2000;56,10;subtropical
-MD-2001;57,43;subtropical
-MD-2002;57,85;subtropical
-MD-2003;56,22;subtropical
-MD-2004;57,63;subtropical
-MD-2005;57,10;subtropical
-MD-2006;57,92;subtropical
-MD-2007;57,25;subtropical
-MD-2008;57,10;subtropical
-MD-2009;56,91;subtropical
+LA-2008;68.3;subtropical
+LA-2009;68.34;subtropical
+LA-2010;68.35;subtropical
+LA-2011;69.61;subtropical
+LA-2012;69.95;subtropical
+LA-2013;67.5;subtropical
+LA-2014;67.05;subtropical
+LA-2015;69.99;subtropical
+ME-1992;42.15;continental humide ete frais
+ME-1993;42.21;continental humide ete frais
+ME-1994;43.72;continental humide ete frais
+ME-1995;42.85;continental humide ete frais
+ME-1996;43.45;continental humide ete frais
+ME-1997;42.17;continental humide ete frais
+ME-1998;45.83;continental humide ete frais
+ME-1999;46.48;continental humide ete frais
+ME-2000;43.37;continental humide ete frais
+ME-2001;45.25;continental humide ete frais
+ME-2002;43.58;continental humide ete frais
+ME-2003;43.29;continental humide ete frais
+ME-2004;43.54;continental humide ete frais
+ME-2005;44.59;continental humide ete frais
+ME-2006;45.92;continental humide ete frais
+ME-2007;42.85;continental humide ete frais
+ME-2008;43.7;continental humide ete frais
+ME-2009;43.85;continental humide ete frais
+ME-2010;46.85;continental humide ete frais
+ME-2011;45.26;continental humide ete frais
+ME-2012;46.19;continental humide ete frais
+ME-2013;44.35;continental humide ete frais
+ME-2014;43.65;continental humide ete frais
+ME-2015;43.91;continental humide ete frais
+MD-1992;55.15;subtropical
+MD-1993;55.79;subtropical
+MD-1994;56.94;subtropical
+MD-1995;56.01;subtropical
+MD-1996;55.3;subtropical
+MD-1997;55.93;subtropical
+MD-1998;58.53;subtropical
+MD-1999;57.49;subtropical
+MD-2000;56.1;subtropical
+MD-2001;57.43;subtropical
+MD-2002;57.85;subtropical
+MD-2003;56.22;subtropical
+MD-2004;57.63;subtropical
+MD-2005;57.1;subtropical
+MD-2006;57.92;subtropical
+MD-2007;57.25;subtropical
+MD-2008;57.1;subtropical
+MD-2009;56.91;subtropical
 MD-2010;58,00;subtropical
-MD-2011;58,97;subtropical
-MD-2012;59,32;subtropical
-MD-2013;56,39;subtropical
-MD-2014;55,92;subtropical
-MD-2015;57,69;subtropical
-MA-1992;48,22;continental humide ete sec
-MA-1993;49,09;continental humide ete sec
-MA-1994;50,43;continental humide ete sec
-MA-1995;49,26;continental humide ete sec
-MA-1996;49,39;continental humide ete sec
-MA-1997;49,35;continental humide ete sec
-MA-1998;52,12;continental humide ete sec
-MA-1999;51,95;continental humide ete sec
-MA-2000;49,70;continental humide ete sec
-MA-2001;51,32;continental humide ete sec
-MA-2002;50,88;continental humide ete sec
-MA-2003;49,66;continental humide ete sec
-MA-2004;50,37;continental humide ete sec
-MA-2005;50,70;continental humide ete sec
-MA-2006;51,68;continental humide ete sec
-MA-2007;49,96;continental humide ete sec
-MA-2008;50,46;continental humide ete sec
-MA-2009;50,28;continental humide ete sec
-MA-2010;52,57;continental humide ete sec
-MA-2011;52,15;continental humide ete sec
-MA-2012;53,24;continental humide ete sec
-MA-2013;50,74;continental humide ete sec
-MA-2014;49,97;continental humide ete sec
-MA-2015;50,88;continental humide ete sec
-MI-1992;45,21;continental humide ete frais
-MI-1993;45,24;continental humide ete frais
-MI-1994;46,98;continental humide ete frais
-MI-1995;46,15;continental humide ete frais
-MI-1996;44,85;continental humide ete frais
-MI-1997;45,90;continental humide ete frais
-MI-1998;50,38;continental humide ete frais
-MI-1999;48,97;continental humide ete frais
-MI-2000;47,35;continental humide ete frais
-MI-2001;48,93;continental humide ete frais
-MI-2002;47,40;continental humide ete frais
-MI-2003;46,45;continental humide ete frais
-MI-2004;47,34;continental humide ete frais
-MI-2005;48,59;continental humide ete frais
-MI-2006;48,57;continental humide ete frais
-MI-2007;48,09;continental humide ete frais
-MI-2008;45,96;continental humide ete frais
-MI-2009;46,61;continental humide ete frais
-MI-2010;49,42;continental humide ete frais
-MI-2011;48,23;continental humide ete frais
-MI-2012;50,55;continental humide ete frais
-MI-2013;45,97;continental humide ete frais
-MI-2014;44,57;continental humide ete frais
-MI-2015;47,70;continental humide ete frais
-MN-1992;43,05;continental humide ete frais
-MN-1993;41,74;continental humide ete frais
-MN-1994;44,87;continental humide ete frais
-MN-1995;42,89;continental humide ete frais
-MN-1996;40,95;continental humide ete frais
-MN-1997;43,85;continental humide ete frais
-MN-1998;47,72;continental humide ete frais
-MN-1999;46,97;continental humide ete frais
-MN-2000;44,68;continental humide ete frais
-MN-2001;45,51;continental humide ete frais
-MN-2002;44,22;continental humide ete frais
-MN-2003;44,37;continental humide ete frais
-MN-2004;44,59;continental humide ete frais
-MN-2005;46,29;continental humide ete frais
-MN-2006;46,23;continental humide ete frais
-MN-2007;44,93;continental humide ete frais
-MN-2008;42,23;continental humide ete frais
-MN-2009;43,55;continental humide ete frais
-MN-2010;45,94;continental humide ete frais
-MN-2011;45,39;continental humide ete frais
-MN-2012;47,64;continental humide ete frais
-MN-2013;41,86;continental humide ete frais
-MN-2014;41,95;continental humide ete frais
-MN-2015;46,20;continental humide ete frais
-MS-1992;64,49;subtropical
-MS-1993;64,07;subtropical
-MS-1994;65,57;subtropical
-MS-1995;65,19;subtropical
-MS-1996;64,71;subtropical
-MS-1997;64,54;subtropical
-MS-1998;67,41;subtropical
-MS-1999;66,40;subtropical
-MS-2000;65,75;subtropical
-MS-2001;65,77;subtropical
-MS-2002;65,48;subtropical
-MS-2003;65,34;subtropical
-MS-2004;65,71;subtropical
-MS-2005;65,56;subtropical
-MS-2006;65,96;subtropical
-MS-2007;66,65;subtropical
-MS-2008;65,13;subtropical
-MS-2009;65,32;subtropical
-MS-2010;65,56;subtropical
-MS-2011;66,47;subtropical
-MS-2012;67,04;subtropical
-MS-2013;64,35;subtropical
-MS-2014;64,48;subtropical
-MS-2015;67,25;subtropical
-MO-1992;56,25;continental humide ete sec
-MO-1993;55,10;continental humide ete sec
-MO-1994;57,27;continental humide ete sec
-MO-1995;56,44;continental humide ete sec
-MO-1996;55,24;continental humide ete sec
-MO-1997;56,16;continental humide ete sec
-MO-1998;59,15;continental humide ete sec
-MO-1999;58,71;continental humide ete sec
-MO-2000;57,16;continental humide ete sec
-MO-2001;58,21;continental humide ete sec
-MO-2002;57,15;continental humide ete sec
-MO-2003;56,96;continental humide ete sec
-MO-2004;57,25;continental humide ete sec
-MO-2005;58,32;continental humide ete sec
-MO-2006;58,16;continental humide ete sec
-MO-2007;58,41;continental humide ete sec
-MO-2008;55,49;continental humide ete sec
-MO-2009;56,36;continental humide ete sec
-MO-2010;57,91;continental humide ete sec
-MO-2011;58,27;continental humide ete sec
-MO-2012;60,57;continental humide ete sec
-MO-2013;55,41;continental humide ete sec
-MO-2014;55,34;continental humide ete sec
-MO-2015;58,08;continental humide ete sec
-MT-1992;44,88;steppe
-MT-1993;42,14;steppe
-MT-1994;44,69;steppe
-MT-1995;43,50;steppe
-MT-1996;41,78;steppe
-MT-1997;44,75;steppe
-MT-1998;46,11;steppe
-MT-1999;46,03;steppe
-MT-2000;44,19;steppe
-MT-2001;45,38;steppe
-MT-2002;43,15;steppe
-MT-2003;45,03;steppe
-MT-2004;45,16;steppe
-MT-2005;45,33;steppe
-MT-2006;45,55;steppe
-MT-2007;46,05;steppe
-MT-2008;43,50;steppe
-MT-2009;42,96;steppe
-MT-2010;43,46;steppe
-MT-2011;43,63;steppe
-MT-2012;46,30;steppe
-MT-2013;44,26;steppe
-MT-2014;43,49;steppe
-MT-2015;46,69;steppe
-NE-1992;50,51;steppe
-NE-1993;48,52;steppe
-NE-1994;51,73;steppe
-NE-1995;50,72;steppe
-NE-1996;49,12;steppe
-NE-1997;51,13;steppe
-NE-1998;52,79;steppe
-NE-1999;53,21;steppe
-NE-2000;51,86;steppe
-NE-2001;52,41;steppe
-NE-2002;51,87;steppe
-NE-2003;51,86;steppe
-NE-2004;52,15;steppe
-NE-2005;53,21;steppe
-NE-2006;52,38;steppe
-NE-2007;52,54;steppe
-NE-2008;50,09;steppe
-NE-2009;49,61;steppe
-NE-2010;51,82;steppe
-NE-2011;51,36;steppe
-NE-2012;54,75;steppe
-NE-2013;50,55;steppe
-NE-2014;50,07;steppe
-NE-2015;52,95;steppe
-NV-1992;53,23;steppe
-NV-1993;50,65;steppe
-NV-1994;52,27;steppe
-NV-1995;52,45;steppe
-NV-1996;53,12;steppe
-NV-1997;52,27;steppe
-NV-1998;50,46;steppe
-NV-1999;52,04;steppe
-NV-2000;52,98;steppe
-NV-2001;53,55;steppe
-NV-2002;52,62;steppe
-NV-2003;53,29;steppe
-NV-2004;52,69;steppe
-NV-2005;52,33;steppe
-NV-2006;52,31;steppe
-NV-2007;53,72;steppe
-NV-2008;52,49;steppe
-NV-2009;51,82;steppe
-NV-2010;51,61;steppe
-NV-2011;51,08;steppe
-NV-2012;53,94;steppe
-NV-2013;52,72;steppe
-NV-2014;54,48;steppe
-NV-2015;54,27;steppe
-NH-1992;43,90;continental humide ete frais
-NH-1993;44,48;continental humide ete frais
-NH-1994;45,80;continental humide ete frais
-NH-1995;44,95;continental humide ete frais
-NH-1996;45,25;continental humide ete frais
-NH-1997;44,53;continental humide ete frais
-NH-1998;48,05;continental humide ete frais
-NH-1999;47,81;continental humide ete frais
-NH-2000;45,36;continental humide ete frais
-NH-2001;46,95;continental humide ete frais
-NH-2002;46,16;continental humide ete frais
-NH-2003;45,32;continental humide ete frais
-NH-2004;45,95;continental humide ete frais
-NH-2005;46,58;continental humide ete frais
-NH-2006;47,55;continental humide ete frais
-NH-2007;45,06;continental humide ete frais
-NH-2008;45,84;continental humide ete frais
-NH-2009;45,75;continental humide ete frais
-NH-2010;48,25;continental humide ete frais
-NH-2011;47,49;continental humide ete frais
-NH-2012;48,76;continental humide ete frais
-NH-2013;46,38;continental humide ete frais
-NH-2014;45,46;continental humide ete frais
-NH-2015;46,25;continental humide ete frais
-NJ-1992;52,88;continental humide ete sec
-NJ-1993;53,78;continental humide ete sec
-NJ-1994;54,78;continental humide ete sec
-NJ-1995;53,99;continental humide ete sec
-NJ-1996;53,59;continental humide ete sec
-NJ-1997;54,03;continental humide ete sec
-NJ-1998;56,65;continental humide ete sec
-NJ-1999;55,99;continental humide ete sec
-NJ-2000;54,21;continental humide ete sec
-NJ-2001;55,81;continental humide ete sec
-NJ-2002;55,89;continental humide ete sec
-NJ-2003;54,15;continental humide ete sec
-NJ-2004;55,60;continental humide ete sec
-NJ-2005;55,57;continental humide ete sec
-NJ-2006;56,45;continental humide ete sec
-NJ-2007;55,12;continental humide ete sec
-NJ-2008;55,38;continental humide ete sec
-NJ-2009;55,08;continental humide ete sec
-NJ-2010;56,81;continental humide ete sec
-NJ-2011;57,37;continental humide ete sec
-NJ-2012;57,71;continental humide ete sec
-NJ-2013;54,96;continental humide ete sec
-NJ-2014;54,30;continental humide ete sec
-NJ-2015;56,23;continental humide ete sec
-NM-1992;54,46;steppe
-NM-1993;54,63;steppe
-NM-1994;56,19;steppe
-NM-1995;56,01;steppe
-NM-1996;56,35;steppe
-NM-1997;54,72;steppe
-NM-1998;55,74;steppe
-NM-1999;55,70;steppe
-NM-2000;56,69;steppe
-NM-2001;56,65;steppe
-NM-2002;56,05;steppe
-NM-2003;56,87;steppe
-NM-2004;55,08;steppe
-NM-2005;56,06;steppe
-NM-2006;56,25;steppe
-NM-2007;56,35;steppe
-NM-2008;55,56;steppe
-NM-2009;55,77;steppe
-NM-2010;56,05;steppe
-NM-2011;56,51;steppe
-NM-2012;57,58;steppe
-NM-2013;55,65;steppe
-NM-2014;56,48;steppe
-NM-2015;56,70;steppe
-NY-1992;45,73;continental humide ete frais
-NY-1993;45,98;continental humide ete frais
-NY-1994;47,41;continental humide ete frais
-NY-1995;46,86;continental humide ete frais
-NY-1996;46,86;continental humide ete frais
-NY-1997;46,54;continental humide ete frais
-NY-1998;50,24;continental humide ete frais
-NY-1999;49,27;continental humide ete frais
-NY-2000;47,21;continental humide ete frais
-NY-2001;49,16;continental humide ete frais
-NY-2002;48,45;continental humide ete frais
-NY-2003;47,24;continental humide ete frais
-NY-2004;48,11;continental humide ete frais
-NY-2005;48,74;continental humide ete frais
-NY-2006;49,23;continental humide ete frais
-NY-2007;47,52;continental humide ete frais
-NY-2008;47,58;continental humide ete frais
-NY-2009;47,75;continental humide ete frais
-NY-2010;49,56;continental humide ete frais
-NY-2011;49,72;continental humide ete frais
-NY-2012;50,92;continental humide ete frais
-NY-2013;47,67;continental humide ete frais
-NY-2014;47,02;continental humide ete frais
-NY-2015;48,37;continental humide ete frais
-NC-1992;59,69;subtropical
-NC-1993;60,09;subtropical
-NC-1994;61,07;subtropical
-NC-1995;59,99;subtropical
-NC-1996;59,55;subtropical
-NC-1997;59,69;subtropical
-NC-1998;62,33;subtropical
+MD-2011;58.97;subtropical
+MD-2012;59.32;subtropical
+MD-2013;56.39;subtropical
+MD-2014;55.92;subtropical
+MD-2015;57.69;subtropical
+MA-1992;48.22;continental humide ete sec
+MA-1993;49.09;continental humide ete sec
+MA-1994;50.43;continental humide ete sec
+MA-1995;49.26;continental humide ete sec
+MA-1996;49.39;continental humide ete sec
+MA-1997;49.35;continental humide ete sec
+MA-1998;52.12;continental humide ete sec
+MA-1999;51.95;continental humide ete sec
+MA-2000;49.7;continental humide ete sec
+MA-2001;51.32;continental humide ete sec
+MA-2002;50.88;continental humide ete sec
+MA-2003;49.66;continental humide ete sec
+MA-2004;50.37;continental humide ete sec
+MA-2005;50.7;continental humide ete sec
+MA-2006;51.68;continental humide ete sec
+MA-2007;49.96;continental humide ete sec
+MA-2008;50.46;continental humide ete sec
+MA-2009;50.28;continental humide ete sec
+MA-2010;52.57;continental humide ete sec
+MA-2011;52.15;continental humide ete sec
+MA-2012;53.24;continental humide ete sec
+MA-2013;50.74;continental humide ete sec
+MA-2014;49.97;continental humide ete sec
+MA-2015;50.88;continental humide ete sec
+MI-1992;45.21;continental humide ete frais
+MI-1993;45.24;continental humide ete frais
+MI-1994;46.98;continental humide ete frais
+MI-1995;46.15;continental humide ete frais
+MI-1996;44.85;continental humide ete frais
+MI-1997;45.9;continental humide ete frais
+MI-1998;50.38;continental humide ete frais
+MI-1999;48.97;continental humide ete frais
+MI-2000;47.35;continental humide ete frais
+MI-2001;48.93;continental humide ete frais
+MI-2002;47.4;continental humide ete frais
+MI-2003;46.45;continental humide ete frais
+MI-2004;47.34;continental humide ete frais
+MI-2005;48.59;continental humide ete frais
+MI-2006;48.57;continental humide ete frais
+MI-2007;48.09;continental humide ete frais
+MI-2008;45.96;continental humide ete frais
+MI-2009;46.61;continental humide ete frais
+MI-2010;49.42;continental humide ete frais
+MI-2011;48.23;continental humide ete frais
+MI-2012;50.55;continental humide ete frais
+MI-2013;45.97;continental humide ete frais
+MI-2014;44.57;continental humide ete frais
+MI-2015;47.7;continental humide ete frais
+MN-1992;43.05;continental humide ete frais
+MN-1993;41.74;continental humide ete frais
+MN-1994;44.87;continental humide ete frais
+MN-1995;42.89;continental humide ete frais
+MN-1996;40.95;continental humide ete frais
+MN-1997;43.85;continental humide ete frais
+MN-1998;47.72;continental humide ete frais
+MN-1999;46.97;continental humide ete frais
+MN-2000;44.68;continental humide ete frais
+MN-2001;45.51;continental humide ete frais
+MN-2002;44.22;continental humide ete frais
+MN-2003;44.37;continental humide ete frais
+MN-2004;44.59;continental humide ete frais
+MN-2005;46.29;continental humide ete frais
+MN-2006;46.23;continental humide ete frais
+MN-2007;44.93;continental humide ete frais
+MN-2008;42.23;continental humide ete frais
+MN-2009;43.55;continental humide ete frais
+MN-2010;45.94;continental humide ete frais
+MN-2011;45.39;continental humide ete frais
+MN-2012;47.64;continental humide ete frais
+MN-2013;41.86;continental humide ete frais
+MN-2014;41.95;continental humide ete frais
+MN-2015;46.2;continental humide ete frais
+MS-1992;64.49;subtropical
+MS-1993;64.07;subtropical
+MS-1994;65.57;subtropical
+MS-1995;65.19;subtropical
+MS-1996;64.71;subtropical
+MS-1997;64.54;subtropical
+MS-1998;67.41;subtropical
+MS-1999;66.4;subtropical
+MS-2000;65.75;subtropical
+MS-2001;65.77;subtropical
+MS-2002;65.48;subtropical
+MS-2003;65.34;subtropical
+MS-2004;65.71;subtropical
+MS-2005;65.56;subtropical
+MS-2006;65.96;subtropical
+MS-2007;66.65;subtropical
+MS-2008;65.13;subtropical
+MS-2009;65.32;subtropical
+MS-2010;65.56;subtropical
+MS-2011;66.47;subtropical
+MS-2012;67.04;subtropical
+MS-2013;64.35;subtropical
+MS-2014;64.48;subtropical
+MS-2015;67.25;subtropical
+MO-1992;56.25;continental humide ete sec
+MO-1993;55.1;continental humide ete sec
+MO-1994;57.27;continental humide ete sec
+MO-1995;56.44;continental humide ete sec
+MO-1996;55.24;continental humide ete sec
+MO-1997;56.16;continental humide ete sec
+MO-1998;59.15;continental humide ete sec
+MO-1999;58.71;continental humide ete sec
+MO-2000;57.16;continental humide ete sec
+MO-2001;58.21;continental humide ete sec
+MO-2002;57.15;continental humide ete sec
+MO-2003;56.96;continental humide ete sec
+MO-2004;57.25;continental humide ete sec
+MO-2005;58.32;continental humide ete sec
+MO-2006;58.16;continental humide ete sec
+MO-2007;58.41;continental humide ete sec
+MO-2008;55.49;continental humide ete sec
+MO-2009;56.36;continental humide ete sec
+MO-2010;57.91;continental humide ete sec
+MO-2011;58.27;continental humide ete sec
+MO-2012;60.57;continental humide ete sec
+MO-2013;55.41;continental humide ete sec
+MO-2014;55.34;continental humide ete sec
+MO-2015;58.08;continental humide ete sec
+MT-1992;44.88;steppe
+MT-1993;42.14;steppe
+MT-1994;44.69;steppe
+MT-1995;43.5;steppe
+MT-1996;41.78;steppe
+MT-1997;44.75;steppe
+MT-1998;46.11;steppe
+MT-1999;46.03;steppe
+MT-2000;44.19;steppe
+MT-2001;45.38;steppe
+MT-2002;43.15;steppe
+MT-2003;45.03;steppe
+MT-2004;45.16;steppe
+MT-2005;45.33;steppe
+MT-2006;45.55;steppe
+MT-2007;46.05;steppe
+MT-2008;43.5;steppe
+MT-2009;42.96;steppe
+MT-2010;43.46;steppe
+MT-2011;43.63;steppe
+MT-2012;46.3;steppe
+MT-2013;44.26;steppe
+MT-2014;43.49;steppe
+MT-2015;46.69;steppe
+NE-1992;50.51;steppe
+NE-1993;48.52;steppe
+NE-1994;51.73;steppe
+NE-1995;50.72;steppe
+NE-1996;49.12;steppe
+NE-1997;51.13;steppe
+NE-1998;52.79;steppe
+NE-1999;53.21;steppe
+NE-2000;51.86;steppe
+NE-2001;52.41;steppe
+NE-2002;51.87;steppe
+NE-2003;51.86;steppe
+NE-2004;52.15;steppe
+NE-2005;53.21;steppe
+NE-2006;52.38;steppe
+NE-2007;52.54;steppe
+NE-2008;50.09;steppe
+NE-2009;49.61;steppe
+NE-2010;51.82;steppe
+NE-2011;51.36;steppe
+NE-2012;54.75;steppe
+NE-2013;50.55;steppe
+NE-2014;50.07;steppe
+NE-2015;52.95;steppe
+NV-1992;53.23;steppe
+NV-1993;50.65;steppe
+NV-1994;52.27;steppe
+NV-1995;52.45;steppe
+NV-1996;53.12;steppe
+NV-1997;52.27;steppe
+NV-1998;50.46;steppe
+NV-1999;52.04;steppe
+NV-2000;52.98;steppe
+NV-2001;53.55;steppe
+NV-2002;52.62;steppe
+NV-2003;53.29;steppe
+NV-2004;52.69;steppe
+NV-2005;52.33;steppe
+NV-2006;52.31;steppe
+NV-2007;53.72;steppe
+NV-2008;52.49;steppe
+NV-2009;51.82;steppe
+NV-2010;51.61;steppe
+NV-2011;51.08;steppe
+NV-2012;53.94;steppe
+NV-2013;52.72;steppe
+NV-2014;54.48;steppe
+NV-2015;54.27;steppe
+NH-1992;43.9;continental humide ete frais
+NH-1993;44.48;continental humide ete frais
+NH-1994;45.8;continental humide ete frais
+NH-1995;44.95;continental humide ete frais
+NH-1996;45.25;continental humide ete frais
+NH-1997;44.53;continental humide ete frais
+NH-1998;48.05;continental humide ete frais
+NH-1999;47.81;continental humide ete frais
+NH-2000;45.36;continental humide ete frais
+NH-2001;46.95;continental humide ete frais
+NH-2002;46.16;continental humide ete frais
+NH-2003;45.32;continental humide ete frais
+NH-2004;45.95;continental humide ete frais
+NH-2005;46.58;continental humide ete frais
+NH-2006;47.55;continental humide ete frais
+NH-2007;45.06;continental humide ete frais
+NH-2008;45.84;continental humide ete frais
+NH-2009;45.75;continental humide ete frais
+NH-2010;48.25;continental humide ete frais
+NH-2011;47.49;continental humide ete frais
+NH-2012;48.76;continental humide ete frais
+NH-2013;46.38;continental humide ete frais
+NH-2014;45.46;continental humide ete frais
+NH-2015;46.25;continental humide ete frais
+NJ-1992;52.88;continental humide ete sec
+NJ-1993;53.78;continental humide ete sec
+NJ-1994;54.78;continental humide ete sec
+NJ-1995;53.99;continental humide ete sec
+NJ-1996;53.59;continental humide ete sec
+NJ-1997;54.03;continental humide ete sec
+NJ-1998;56.65;continental humide ete sec
+NJ-1999;55.99;continental humide ete sec
+NJ-2000;54.21;continental humide ete sec
+NJ-2001;55.81;continental humide ete sec
+NJ-2002;55.89;continental humide ete sec
+NJ-2003;54.15;continental humide ete sec
+NJ-2004;55.6;continental humide ete sec
+NJ-2005;55.57;continental humide ete sec
+NJ-2006;56.45;continental humide ete sec
+NJ-2007;55.12;continental humide ete sec
+NJ-2008;55.38;continental humide ete sec
+NJ-2009;55.08;continental humide ete sec
+NJ-2010;56.81;continental humide ete sec
+NJ-2011;57.37;continental humide ete sec
+NJ-2012;57.71;continental humide ete sec
+NJ-2013;54.96;continental humide ete sec
+NJ-2014;54.3;continental humide ete sec
+NJ-2015;56.23;continental humide ete sec
+NM-1992;54.46;steppe
+NM-1993;54.63;steppe
+NM-1994;56.19;steppe
+NM-1995;56.01;steppe
+NM-1996;56.35;steppe
+NM-1997;54.72;steppe
+NM-1998;55.74;steppe
+NM-1999;55.7;steppe
+NM-2000;56.69;steppe
+NM-2001;56.65;steppe
+NM-2002;56.05;steppe
+NM-2003;56.87;steppe
+NM-2004;55.08;steppe
+NM-2005;56.06;steppe
+NM-2006;56.25;steppe
+NM-2007;56.35;steppe
+NM-2008;55.56;steppe
+NM-2009;55.77;steppe
+NM-2010;56.05;steppe
+NM-2011;56.51;steppe
+NM-2012;57.58;steppe
+NM-2013;55.65;steppe
+NM-2014;56.48;steppe
+NM-2015;56.7;steppe
+NY-1992;45.73;continental humide ete frais
+NY-1993;45.98;continental humide ete frais
+NY-1994;47.41;continental humide ete frais
+NY-1995;46.86;continental humide ete frais
+NY-1996;46.86;continental humide ete frais
+NY-1997;46.54;continental humide ete frais
+NY-1998;50.24;continental humide ete frais
+NY-1999;49.27;continental humide ete frais
+NY-2000;47.21;continental humide ete frais
+NY-2001;49.16;continental humide ete frais
+NY-2002;48.45;continental humide ete frais
+NY-2003;47.24;continental humide ete frais
+NY-2004;48.11;continental humide ete frais
+NY-2005;48.74;continental humide ete frais
+NY-2006;49.23;continental humide ete frais
+NY-2007;47.52;continental humide ete frais
+NY-2008;47.58;continental humide ete frais
+NY-2009;47.75;continental humide ete frais
+NY-2010;49.56;continental humide ete frais
+NY-2011;49.72;continental humide ete frais
+NY-2012;50.92;continental humide ete frais
+NY-2013;47.67;continental humide ete frais
+NY-2014;47.02;continental humide ete frais
+NY-2015;48.37;continental humide ete frais
+NC-1992;59.69;subtropical
+NC-1993;60.09;subtropical
+NC-1994;61.07;subtropical
+NC-1995;59.99;subtropical
+NC-1996;59.55;subtropical
+NC-1997;59.69;subtropical
+NC-1998;62.33;subtropical
 NC-1999;61,00;subtropical
-NC-2000;60,16;subtropical
-NC-2001;61,22;subtropical
-NC-2002;61,55;subtropical
-NC-2003;60,75;subtropical
-NC-2004;61,29;subtropical
-NC-2005;60,92;subtropical
-NC-2006;61,02;subtropical
-NC-2007;61,95;subtropical
-NC-2008;61,07;subtropical
-NC-2009;60,72;subtropical
-NC-2010;61,05;subtropical
-NC-2011;62,59;subtropical
-NC-2012;62,25;subtropical
-NC-2013;59,87;subtropical
-NC-2014;60,45;subtropical
-NC-2015;62,44;subtropical
-ND-1992;43,15;continental humide ete frais
-ND-1993;41,23;continental humide ete frais
-ND-1994;43,79;continental humide ete frais
-ND-1995;42,35;continental humide ete frais
-ND-1996;39,81;continental humide ete frais
-ND-1997;44,25;continental humide ete frais
-ND-1998;46,18;continental humide ete frais
-ND-1999;46,24;continental humide ete frais
-ND-2000;43,68;continental humide ete frais
-ND-2001;44,54;continental humide ete frais
-ND-2002;43,19;continental humide ete frais
-ND-2003;43,50;continental humide ete frais
-ND-2004;43,88;continental humide ete frais
-ND-2005;45,67;continental humide ete frais
-ND-2006;45,46;continental humide ete frais
-ND-2007;44,32;continental humide ete frais
-ND-2008;42,04;continental humide ete frais
-ND-2009;41,56;continental humide ete frais
-ND-2010;43,71;continental humide ete frais
-ND-2011;43,77;continental humide ete frais
-ND-2012;46,33;continental humide ete frais
-ND-2013;41,28;continental humide ete frais
-ND-2014;41,75;continental humide ete frais
-ND-2015;45,86;continental humide ete frais
-OH-1992;52,15;continental humide ete sec
-OH-1993;52,05;continental humide ete sec
-OH-1994;53,27;continental humide ete sec
-OH-1995;52,30;continental humide ete sec
-OH-1996;51,74;continental humide ete sec
-OH-1997;52,13;continental humide ete sec
-OH-1998;55,77;continental humide ete sec
-OH-1999;54,49;continental humide ete sec
-OH-2000;53,03;continental humide ete sec
-OH-2001;54,63;continental humide ete sec
-OH-2002;54,21;continental humide ete sec
-OH-2003;52,85;continental humide ete sec
-OH-2004;53,87;continental humide ete sec
-OH-2005;53,83;continental humide ete sec
-OH-2006;53,97;continental humide ete sec
-OH-2007;54,02;continental humide ete sec
-OH-2008;52,59;continental humide ete sec
-OH-2009;53,25;continental humide ete sec
-OH-2010;54,14;continental humide ete sec
-OH-2011;54,93;continental humide ete sec
-OH-2012;56,01;continental humide ete sec
-OH-2013;52,73;continental humide ete sec
-OH-2014;51,86;continental humide ete sec
-OH-2015;54,09;continental humide ete sec
-OK-1992;61,05;subtropical
-OK-1993;60,21;subtropical
-OK-1994;61,88;subtropical
-OK-1995;61,25;subtropical
-OK-1996;61,13;subtropical
-OK-1997;60,75;subtropical
-OK-1998;64,06;subtropical
-OK-1999;63,31;subtropical
-OK-2000;62,13;subtropical
-OK-2001;63,05;subtropical
-OK-2002;61,18;subtropical
-OK-2003;61,93;subtropical
-OK-2004;62,06;subtropical
-OK-2005;62,76;subtropical
-OK-2006;63,55;subtropical
-OK-2007;62,32;subtropical
-OK-2008;61,48;subtropical
-OK-2009;61,41;subtropical
-OK-2010;62,58;subtropical
-OK-2011;64,06;subtropical
-OK-2012;65,01;subtropical
-OK-2013;60,57;subtropical
-OK-2014;60,96;subtropical
-OK-2015;62,93;subtropical
-OR-1992;50,75;steppe
-OR-1993;47,22;steppe
-OR-1994;48,88;steppe
-OR-1995;49,25;steppe
-OR-1996;48,95;steppe
-OR-1997;49,13;steppe
-OR-1998;48,94;steppe
-OR-1999;48,35;steppe
-OR-2000;48,84;steppe
-OR-2001;49,21;steppe
-OR-2002;49,15;steppe
-OR-2003;49,95;steppe
-OR-2004;49,95;steppe
-OR-2005;48,97;steppe
-OR-2006;49,13;steppe
-OR-2007;49,38;steppe
-OR-2008;48,46;steppe
-OR-2009;48,45;steppe
-OR-2010;48,05;steppe
-OR-2011;47,40;steppe
-OR-2012;49,25;steppe
-OR-2013;49,27;steppe
-OR-2014;50,80;steppe
-OR-2015;51,47;steppe
-PA-1992;49,42;continental humide ete sec
-PA-1993;49,85;continental humide ete sec
-PA-1994;50,75;continental humide ete sec
-PA-1995;50,16;continental humide ete sec
-PA-1996;49,80;continental humide ete sec
-PA-1997;50,05;continental humide ete sec
-PA-1998;53,34;continental humide ete sec
-PA-1999;52,08;continental humide ete sec
-PA-2000;50,58;continental humide ete sec
-PA-2001;52,11;continental humide ete sec
-PA-2002;51,87;continental humide ete sec
-PA-2003;50,46;continental humide ete sec
-PA-2004;51,71;continental humide ete sec
-PA-2005;51,60;continental humide ete sec
-PA-2006;52,17;continental humide ete sec
-PA-2007;51,15;continental humide ete sec
-PA-2008;50,64;continental humide ete sec
-PA-2009;50,97;continental humide ete sec
-PA-2010;52,30;continental humide ete sec
-PA-2011;52,97;continental humide ete sec
-PA-2012;53,78;continental humide ete sec
-PA-2013;50,83;continental humide ete sec
-PA-2014;49,96;continental humide ete sec
-PA-2015;51,91;continental humide ete sec
-RI-1992;50,13;continental humide ete sec
-RI-1993;51,09;continental humide ete sec
-RI-1994;52,12;continental humide ete sec
-RI-1995;51,33;continental humide ete sec
-RI-1996;51,03;continental humide ete sec
-RI-1997;51,35;continental humide ete sec
-RI-1998;53,63;continental humide ete sec
-RI-1999;53,76;continental humide ete sec
-RI-2000;51,53;continental humide ete sec
-RI-2001;53,19;continental humide ete sec
-RI-2002;52,67;continental humide ete sec
-RI-2003;51,30;continental humide ete sec
-RI-2004;51,97;continental humide ete sec
-RI-2005;52,25;continental humide ete sec
-RI-2006;53,28;continental humide ete sec
-RI-2007;51,87;continental humide ete sec
-RI-2008;52,51;continental humide ete sec
-RI-2009;52,17;continental humide ete sec
-RI-2010;54,11;continental humide ete sec
-RI-2011;54,03;continental humide ete sec
-RI-2012;54,64;continental humide ete sec
-RI-2013;52,49;continental humide ete sec
-RI-2014;51,89;continental humide ete sec
-RI-2015;52,70;continental humide ete sec
-SC-1992;63,42;subtropical
-SC-1993;63,88;subtropical
-SC-1994;64,76;subtropical
-SC-1995;64,06;subtropical
-SC-1996;63,49;subtropical
-SC-1997;63,63;subtropical
-SC-1998;66,21;subtropical
-SC-1999;64,70;subtropical
-SC-2000;63,95;subtropical
-SC-2001;65,11;subtropical
-SC-2002;65,22;subtropical
-SC-2003;64,25;subtropical
-SC-2004;65,02;subtropical
-SC-2005;64,47;subtropical
-SC-2006;64,80;subtropical
-SC-2007;65,75;subtropical
-SC-2008;64,68;subtropical
-SC-2009;64,35;subtropical
-SC-2010;64,55;subtropical
-SC-2011;66,24;subtropical
-SC-2012;65,98;subtropical
-SC-2013;63,43;subtropical
-SC-2014;64,26;subtropical
-SC-2015;66,37;subtropical
-SD-1992;47,25;steppe
-SD-1993;44,96;steppe
-SD-1994;48,05;steppe
-SD-1995;47,02;steppe
-SD-1996;44,48;steppe
-SD-1997;47,90;steppe
-SD-1998;49,95;steppe
-SD-1999;50,55;steppe
-SD-2000;48,22;steppe
-SD-2001;48,65;steppe
-SD-2002;48,25;steppe
-SD-2003;48,45;steppe
-SD-2004;49,05;steppe
-SD-2005;50,12;steppe
-SD-2006;49,59;steppe
-SD-2007;49,23;steppe
-SD-2008;46,35;steppe
+NC-2000;60.16;subtropical
+NC-2001;61.22;subtropical
+NC-2002;61.55;subtropical
+NC-2003;60.75;subtropical
+NC-2004;61.29;subtropical
+NC-2005;60.92;subtropical
+NC-2006;61.02;subtropical
+NC-2007;61.95;subtropical
+NC-2008;61.07;subtropical
+NC-2009;60.72;subtropical
+NC-2010;61.05;subtropical
+NC-2011;62.59;subtropical
+NC-2012;62.25;subtropical
+NC-2013;59.87;subtropical
+NC-2014;60.45;subtropical
+NC-2015;62.44;subtropical
+ND-1992;43.15;continental humide ete frais
+ND-1993;41.23;continental humide ete frais
+ND-1994;43.79;continental humide ete frais
+ND-1995;42.35;continental humide ete frais
+ND-1996;39.81;continental humide ete frais
+ND-1997;44.25;continental humide ete frais
+ND-1998;46.18;continental humide ete frais
+ND-1999;46.24;continental humide ete frais
+ND-2000;43.68;continental humide ete frais
+ND-2001;44.54;continental humide ete frais
+ND-2002;43.19;continental humide ete frais
+ND-2003;43.5;continental humide ete frais
+ND-2004;43.88;continental humide ete frais
+ND-2005;45.67;continental humide ete frais
+ND-2006;45.46;continental humide ete frais
+ND-2007;44.32;continental humide ete frais
+ND-2008;42.04;continental humide ete frais
+ND-2009;41.56;continental humide ete frais
+ND-2010;43.71;continental humide ete frais
+ND-2011;43.77;continental humide ete frais
+ND-2012;46.33;continental humide ete frais
+ND-2013;41.28;continental humide ete frais
+ND-2014;41.75;continental humide ete frais
+ND-2015;45.86;continental humide ete frais
+OH-1992;52.15;continental humide ete sec
+OH-1993;52.05;continental humide ete sec
+OH-1994;53.27;continental humide ete sec
+OH-1995;52.3;continental humide ete sec
+OH-1996;51.74;continental humide ete sec
+OH-1997;52.13;continental humide ete sec
+OH-1998;55.77;continental humide ete sec
+OH-1999;54.49;continental humide ete sec
+OH-2000;53.03;continental humide ete sec
+OH-2001;54.63;continental humide ete sec
+OH-2002;54.21;continental humide ete sec
+OH-2003;52.85;continental humide ete sec
+OH-2004;53.87;continental humide ete sec
+OH-2005;53.83;continental humide ete sec
+OH-2006;53.97;continental humide ete sec
+OH-2007;54.02;continental humide ete sec
+OH-2008;52.59;continental humide ete sec
+OH-2009;53.25;continental humide ete sec
+OH-2010;54.14;continental humide ete sec
+OH-2011;54.93;continental humide ete sec
+OH-2012;56.01;continental humide ete sec
+OH-2013;52.73;continental humide ete sec
+OH-2014;51.86;continental humide ete sec
+OH-2015;54.09;continental humide ete sec
+OK-1992;61.05;subtropical
+OK-1993;60.21;subtropical
+OK-1994;61.88;subtropical
+OK-1995;61.25;subtropical
+OK-1996;61.13;subtropical
+OK-1997;60.75;subtropical
+OK-1998;64.06;subtropical
+OK-1999;63.31;subtropical
+OK-2000;62.13;subtropical
+OK-2001;63.05;subtropical
+OK-2002;61.18;subtropical
+OK-2003;61.93;subtropical
+OK-2004;62.06;subtropical
+OK-2005;62.76;subtropical
+OK-2006;63.55;subtropical
+OK-2007;62.32;subtropical
+OK-2008;61.48;subtropical
+OK-2009;61.41;subtropical
+OK-2010;62.58;subtropical
+OK-2011;64.06;subtropical
+OK-2012;65.01;subtropical
+OK-2013;60.57;subtropical
+OK-2014;60.96;subtropical
+OK-2015;62.93;subtropical
+OR-1992;50.75;steppe
+OR-1993;47.22;steppe
+OR-1994;48.88;steppe
+OR-1995;49.25;steppe
+OR-1996;48.95;steppe
+OR-1997;49.13;steppe
+OR-1998;48.94;steppe
+OR-1999;48.35;steppe
+OR-2000;48.84;steppe
+OR-2001;49.21;steppe
+OR-2002;49.15;steppe
+OR-2003;49.95;steppe
+OR-2004;49.95;steppe
+OR-2005;48.97;steppe
+OR-2006;49.13;steppe
+OR-2007;49.38;steppe
+OR-2008;48.46;steppe
+OR-2009;48.45;steppe
+OR-2010;48.05;steppe
+OR-2011;47.4;steppe
+OR-2012;49.25;steppe
+OR-2013;49.27;steppe
+OR-2014;50.8;steppe
+OR-2015;51.47;steppe
+PA-1992;49.42;continental humide ete sec
+PA-1993;49.85;continental humide ete sec
+PA-1994;50.75;continental humide ete sec
+PA-1995;50.16;continental humide ete sec
+PA-1996;49.8;continental humide ete sec
+PA-1997;50.05;continental humide ete sec
+PA-1998;53.34;continental humide ete sec
+PA-1999;52.08;continental humide ete sec
+PA-2000;50.58;continental humide ete sec
+PA-2001;52.11;continental humide ete sec
+PA-2002;51.87;continental humide ete sec
+PA-2003;50.46;continental humide ete sec
+PA-2004;51.71;continental humide ete sec
+PA-2005;51.6;continental humide ete sec
+PA-2006;52.17;continental humide ete sec
+PA-2007;51.15;continental humide ete sec
+PA-2008;50.64;continental humide ete sec
+PA-2009;50.97;continental humide ete sec
+PA-2010;52.3;continental humide ete sec
+PA-2011;52.97;continental humide ete sec
+PA-2012;53.78;continental humide ete sec
+PA-2013;50.83;continental humide ete sec
+PA-2014;49.96;continental humide ete sec
+PA-2015;51.91;continental humide ete sec
+RI-1992;50.13;continental humide ete sec
+RI-1993;51.09;continental humide ete sec
+RI-1994;52.12;continental humide ete sec
+RI-1995;51.33;continental humide ete sec
+RI-1996;51.03;continental humide ete sec
+RI-1997;51.35;continental humide ete sec
+RI-1998;53.63;continental humide ete sec
+RI-1999;53.76;continental humide ete sec
+RI-2000;51.53;continental humide ete sec
+RI-2001;53.19;continental humide ete sec
+RI-2002;52.67;continental humide ete sec
+RI-2003;51.3;continental humide ete sec
+RI-2004;51.97;continental humide ete sec
+RI-2005;52.25;continental humide ete sec
+RI-2006;53.28;continental humide ete sec
+RI-2007;51.87;continental humide ete sec
+RI-2008;52.51;continental humide ete sec
+RI-2009;52.17;continental humide ete sec
+RI-2010;54.11;continental humide ete sec
+RI-2011;54.03;continental humide ete sec
+RI-2012;54.64;continental humide ete sec
+RI-2013;52.49;continental humide ete sec
+RI-2014;51.89;continental humide ete sec
+RI-2015;52.7;continental humide ete sec
+SC-1992;63.42;subtropical
+SC-1993;63.88;subtropical
+SC-1994;64.76;subtropical
+SC-1995;64.06;subtropical
+SC-1996;63.49;subtropical
+SC-1997;63.63;subtropical
+SC-1998;66.21;subtropical
+SC-1999;64.7;subtropical
+SC-2000;63.95;subtropical
+SC-2001;65.11;subtropical
+SC-2002;65.22;subtropical
+SC-2003;64.25;subtropical
+SC-2004;65.02;subtropical
+SC-2005;64.47;subtropical
+SC-2006;64.8;subtropical
+SC-2007;65.75;subtropical
+SC-2008;64.68;subtropical
+SC-2009;64.35;subtropical
+SC-2010;64.55;subtropical
+SC-2011;66.24;subtropical
+SC-2012;65.98;subtropical
+SC-2013;63.43;subtropical
+SC-2014;64.26;subtropical
+SC-2015;66.37;subtropical
+SD-1992;47.25;steppe
+SD-1993;44.96;steppe
+SD-1994;48.05;steppe
+SD-1995;47.02;steppe
+SD-1996;44.48;steppe
+SD-1997;47.9;steppe
+SD-1998;49.95;steppe
+SD-1999;50.55;steppe
+SD-2000;48.22;steppe
+SD-2001;48.65;steppe
+SD-2002;48.25;steppe
+SD-2003;48.45;steppe
+SD-2004;49.05;steppe
+SD-2005;50.12;steppe
+SD-2006;49.59;steppe
+SD-2007;49.23;steppe
+SD-2008;46.35;steppe
 SD-2009;46,00;steppe
-SD-2010;47,89;steppe
-SD-2011;47,66;steppe
-SD-2012;51,44;steppe
-SD-2013;46,28;steppe
-SD-2014;45,99;steppe
-SD-2015;49,79;steppe
-TN-1992;58,66;subtropical
-TN-1993;58,65;subtropical
-TN-1994;59,95;subtropical
-TN-1995;59,19;subtropical
-TN-1996;58,45;subtropical
-TN-1997;58,65;subtropical
-TN-1998;61,75;subtropical
-TN-1999;60,86;subtropical
-TN-2000;59,84;subtropical
-TN-2001;60,43;subtropical
-TN-2002;60,40;subtropical
-TN-2003;59,81;subtropical
-TN-2004;60,45;subtropical
-TN-2005;60,20;subtropical
-TN-2006;60,15;subtropical
-TN-2007;61,74;subtropical
-TN-2008;59,55;subtropical
-TN-2009;59,60;subtropical
-TN-2010;60,20;subtropical
-TN-2011;61,22;subtropical
-TN-2012;61,96;subtropical
-TN-2013;58,58;subtropical
-TN-2014;59,04;subtropical
-TN-2015;61,12;subtropical
-TX-1992;66,12;subtropical
-TX-1993;65,77;subtropical
-TX-1994;67,30;subtropical
-TX-1995;66,78;subtropical
-TX-1996;67,22;subtropical
-TX-1997;65,65;subtropical
-TX-1998;68,51;subtropical
-TX-1999;68,09;subtropical
-TX-2000;67,92;subtropical
-TX-2001;67,68;subtropical
-TX-2002;66,51;subtropical
-TX-2003;67,25;subtropical
-TX-2004;66,73;subtropical
-TX-2005;67,35;subtropical
-TX-2006;68,41;subtropical
-TX-2007;66,87;subtropical
-TX-2008;67,30;subtropical
-TX-2009;67,38;subtropical
-TX-2010;66,98;subtropical
-TX-2011;69,37;subtropical
-TX-2012;69,35;subtropical
-TX-2013;66,67;subtropical
-TX-2014;66,70;subtropical
-TX-2015;67,78;subtropical
-UT-1992;51,18;steppe
-UT-1993;48,76;steppe
-UT-1994;51,38;steppe
-UT-1995;50,96;steppe
-UT-1996;51,44;steppe
-UT-1997;50,08;steppe
-UT-1998;49,79;steppe
-UT-1999;50,73;steppe
-UT-2000;51,88;steppe
-UT-2001;52,14;steppe
-UT-2002;50,89;steppe
+SD-2010;47.89;steppe
+SD-2011;47.66;steppe
+SD-2012;51.44;steppe
+SD-2013;46.28;steppe
+SD-2014;45.99;steppe
+SD-2015;49.79;steppe
+TN-1992;58.66;subtropical
+TN-1993;58.65;subtropical
+TN-1994;59.95;subtropical
+TN-1995;59.19;subtropical
+TN-1996;58.45;subtropical
+TN-1997;58.65;subtropical
+TN-1998;61.75;subtropical
+TN-1999;60.86;subtropical
+TN-2000;59.84;subtropical
+TN-2001;60.43;subtropical
+TN-2002;60.4;subtropical
+TN-2003;59.81;subtropical
+TN-2004;60.45;subtropical
+TN-2005;60.2;subtropical
+TN-2006;60.15;subtropical
+TN-2007;61.74;subtropical
+TN-2008;59.55;subtropical
+TN-2009;59.6;subtropical
+TN-2010;60.2;subtropical
+TN-2011;61.22;subtropical
+TN-2012;61.96;subtropical
+TN-2013;58.58;subtropical
+TN-2014;59.04;subtropical
+TN-2015;61.12;subtropical
+TX-1992;66.12;subtropical
+TX-1993;65.77;subtropical
+TX-1994;67.3;subtropical
+TX-1995;66.78;subtropical
+TX-1996;67.22;subtropical
+TX-1997;65.65;subtropical
+TX-1998;68.51;subtropical
+TX-1999;68.09;subtropical
+TX-2000;67.92;subtropical
+TX-2001;67.68;subtropical
+TX-2002;66.51;subtropical
+TX-2003;67.25;subtropical
+TX-2004;66.73;subtropical
+TX-2005;67.35;subtropical
+TX-2006;68.41;subtropical
+TX-2007;66.87;subtropical
+TX-2008;67.3;subtropical
+TX-2009;67.38;subtropical
+TX-2010;66.98;subtropical
+TX-2011;69.37;subtropical
+TX-2012;69.35;subtropical
+TX-2013;66.67;subtropical
+TX-2014;66.7;subtropical
+TX-2015;67.78;subtropical
+UT-1992;51.18;steppe
+UT-1993;48.76;steppe
+UT-1994;51.38;steppe
+UT-1995;50.96;steppe
+UT-1996;51.44;steppe
+UT-1997;50.08;steppe
+UT-1998;49.79;steppe
+UT-1999;50.73;steppe
+UT-2000;51.88;steppe
+UT-2001;52.14;steppe
+UT-2002;50.89;steppe
 UT-2003;52,00;steppe
-UT-2004;50,93;steppe
-UT-2005;50,85;steppe
-UT-2006;50,92;steppe
-UT-2007;52,39;steppe
-UT-2008;50,41;steppe
-UT-2009;50,16;steppe
-UT-2010;50,25;steppe
-UT-2011;49,63;steppe
-UT-2012;52,75;steppe
-UT-2013;50,30;steppe
-UT-2014;52,26;steppe
-UT-2015;52,43;steppe
-VT-1992;42,83;continental humide ete frais
-VT-1993;43,14;continental humide ete frais
-VT-1994;44,59;continental humide ete frais
-VT-1995;43,98;continental humide ete frais
-VT-1996;44,44;continental humide ete frais
-VT-1997;43,35;continental humide ete frais
-VT-1998;47,31;continental humide ete frais
-VT-1999;46,75;continental humide ete frais
-VT-2000;44,26;continental humide ete frais
-VT-2001;46,15;continental humide ete frais
-VT-2002;45,24;continental humide ete frais
-VT-2003;44,39;continental humide ete frais
-VT-2004;44,99;continental humide ete frais
-VT-2005;46,10;continental humide ete frais
-VT-2006;46,79;continental humide ete frais
-VT-2007;44,23;continental humide ete frais
-VT-2008;45,01;continental humide ete frais
-VT-2009;45,14;continental humide ete frais
-VT-2010;47,13;continental humide ete frais
-VT-2011;46,90;continental humide ete frais
-VT-2012;48,07;continental humide ete frais
-VT-2013;45,47;continental humide ete frais
-VT-2014;44,44;continental humide ete frais
-VT-2015;45,40;continental humide ete frais
-VA-1992;55,96;subtropical
-VA-1993;56,54;subtropical
-VA-1994;57,65;subtropical
-VA-1995;56,59;subtropical
-VA-1996;55,94;subtropical
-VA-1997;56,25;subtropical
-VA-1998;58,96;subtropical
-VA-1999;57,84;subtropical
-VA-2000;56,80;subtropical
-VA-2001;57,80;subtropical
-VA-2002;58,14;subtropical
-VA-2003;57,12;subtropical
-VA-2004;58,05;subtropical
-VA-2005;57,59;subtropical
-VA-2006;57,86;subtropical
-VA-2007;58,34;subtropical
-VA-2008;57,50;subtropical
-VA-2009;57,21;subtropical
-VA-2010;58,04;subtropical
-VA-2011;59,25;subtropical
-VA-2012;59,25;subtropical
-VA-2013;56,63;subtropical
-VA-2014;56,72;subtropical
-VA-2015;58,60;subtropical
-WA-1992;49,92;steppe
-WA-1993;47,50;steppe
-WA-1994;48,92;steppe
-WA-1995;48,90;steppe
-WA-1996;47,12;steppe
-WA-1997;48,63;steppe
-WA-1998;50,11;steppe
-WA-1999;48,09;steppe
-WA-2000;47,61;steppe
-WA-2001;48,25;steppe
-WA-2002;48,21;steppe
-WA-2003;49,27;steppe
-WA-2004;50,08;steppe
-WA-2005;48,77;steppe
-WA-2006;48,56;steppe
-WA-2007;48,45;steppe
-WA-2008;47,43;steppe
-WA-2009;47,85;steppe
-WA-2010;48,06;steppe
-WA-2011;46,75;steppe
-WA-2012;48,55;steppe
-WA-2013;48,79;steppe
-WA-2014;49,67;steppe
-WA-2015;51,33;steppe
-WV-1992;53,01;subtropical
-WV-1993;53,28;subtropical
-WV-1994;54,32;subtropical
-WV-1995;53,32;subtropical
-WV-1996;52,67;subtropical
-WV-1997;52,83;subtropical
-WV-1998;55,74;subtropical
-WV-1999;54,71;subtropical
-WV-2000;53,80;subtropical
-WV-2001;54,81;subtropical
-WV-2002;54,89;subtropical
-WV-2003;53,95;subtropical
-WV-2004;55,01;subtropical
-WV-2005;54,42;subtropical
-WV-2006;54,27;subtropical
-WV-2007;54,91;subtropical
-WV-2008;53,70;subtropical
-WV-2009;53,97;subtropical
-WV-2010;54,26;subtropical
-WV-2011;55,90;subtropical
-WV-2012;56,08;subtropical
-WV-2013;53,40;subtropical
-WV-2014;53,26;subtropical
-WV-2015;55,35;subtropical
-WI-1992;44,77;continental humide ete frais
-WI-1993;44,14;continental humide ete frais
-WI-1994;46,53;continental humide ete frais
-WI-1995;45,17;continental humide ete frais
-WI-1996;43,24;continental humide ete frais
-WI-1997;45,46;continental humide ete frais
-WI-1998;49,75;continental humide ete frais
-WI-1999;48,41;continental humide ete frais
-WI-2000;46,48;continental humide ete frais
-WI-2001;47,71;continental humide ete frais
-WI-2002;46,45;continental humide ete frais
-WI-2003;45,88;continental humide ete frais
-WI-2004;46,50;continental humide ete frais
-WI-2005;47,87;continental humide ete frais
-WI-2006;47,65;continental humide ete frais
-WI-2007;46,96;continental humide ete frais
-WI-2008;44,24;continental humide ete frais
-WI-2009;45,68;continental humide ete frais
-WI-2010;48,23;continental humide ete frais
-WI-2011;47,04;continental humide ete frais
-WI-2012;49,81;continental humide ete frais
-WI-2013;44,05;continental humide ete frais
-WI-2014;43,34;continental humide ete frais
-WI-2015;47,50;continental humide ete frais
-WY-1992;44,31;steppe
-WY-1993;40,94;steppe
-WY-1994;44,67;steppe
-WY-1995;43,44;steppe
-WY-1996;43,19;steppe
-WY-1997;43,24;steppe
-WY-1998;44,35;steppe
-WY-1999;44,84;steppe
-WY-2000;44,23;steppe
-WY-2001;45,23;steppe
-WY-2002;43,30;steppe
-WY-2003;44,42;steppe
-WY-2004;44,37;steppe
-WY-2005;44,50;steppe
-WY-2006;44,65;steppe
-WY-2007;45,73;steppe
-WY-2008;42,91;steppe
-WY-2009;42,52;steppe
-WY-2010;43,75;steppe
-WY-2011;42,95;steppe
-WY-2012;46,58;steppe
-WY-2013;43,65;steppe
-WY-2014;43,84;steppe
-WY-2015;45,85;steppe
-AK-1992;26,72;continental humide ete frais
-AK-1993;32,33;continental humide ete frais
-AK-1994;27,90;continental humide ete frais
-AK-1995;29,85;continental humide ete frais
-AK-1996;27,57;continental humide ete frais
-AK-1997;30,71;continental humide ete frais
-AK-1998;30,96;continental humide ete frais
-AK-1999;26,53;continental humide ete frais
-AK-2000;30,89;continental humide ete frais
-AK-2001;28,39;continental humide ete frais
-AK-2002;31,95;continental humide ete frais
-AK-2003;30,83;continental humide ete frais
-AK-2004;32,03;continental humide ete frais
-AK-2005;31,23;continental humide ete frais
-AK-2006;29,23;continental humide ete frais
-AK-2007;30,14;continental humide ete frais
-AK-2008;27,32;continental humide ete frais
-AK-2009;29,21;continental humide ete frais
-AK-2010;29,78;continental humide ete frais
-AK-2011;28,76;continental humide ete frais
-AK-2012;27,68;continental humide ete frais
-AK-2013;29,44;continental humide ete frais
-AK-2014;31,42;continental humide ete frais
-AK-2015;32,12;continental humide ete frais
+UT-2004;50.93;steppe
+UT-2005;50.85;steppe
+UT-2006;50.92;steppe
+UT-2007;52.39;steppe
+UT-2008;50.41;steppe
+UT-2009;50.16;steppe
+UT-2010;50.25;steppe
+UT-2011;49.63;steppe
+UT-2012;52.75;steppe
+UT-2013;50.3;steppe
+UT-2014;52.26;steppe
+UT-2015;52.43;steppe
+VT-1992;42.83;continental humide ete frais
+VT-1993;43.14;continental humide ete frais
+VT-1994;44.59;continental humide ete frais
+VT-1995;43.98;continental humide ete frais
+VT-1996;44.44;continental humide ete frais
+VT-1997;43.35;continental humide ete frais
+VT-1998;47.31;continental humide ete frais
+VT-1999;46.75;continental humide ete frais
+VT-2000;44.26;continental humide ete frais
+VT-2001;46.15;continental humide ete frais
+VT-2002;45.24;continental humide ete frais
+VT-2003;44.39;continental humide ete frais
+VT-2004;44.99;continental humide ete frais
+VT-2005;46.1;continental humide ete frais
+VT-2006;46.79;continental humide ete frais
+VT-2007;44.23;continental humide ete frais
+VT-2008;45.01;continental humide ete frais
+VT-2009;45.14;continental humide ete frais
+VT-2010;47.13;continental humide ete frais
+VT-2011;46.9;continental humide ete frais
+VT-2012;48.07;continental humide ete frais
+VT-2013;45.47;continental humide ete frais
+VT-2014;44.44;continental humide ete frais
+VT-2015;45.4;continental humide ete frais
+VA-1992;55.96;subtropical
+VA-1993;56.54;subtropical
+VA-1994;57.65;subtropical
+VA-1995;56.59;subtropical
+VA-1996;55.94;subtropical
+VA-1997;56.25;subtropical
+VA-1998;58.96;subtropical
+VA-1999;57.84;subtropical
+VA-2000;56.8;subtropical
+VA-2001;57.8;subtropical
+VA-2002;58.14;subtropical
+VA-2003;57.12;subtropical
+VA-2004;58.05;subtropical
+VA-2005;57.59;subtropical
+VA-2006;57.86;subtropical
+VA-2007;58.34;subtropical
+VA-2008;57.5;subtropical
+VA-2009;57.21;subtropical
+VA-2010;58.04;subtropical
+VA-2011;59.25;subtropical
+VA-2012;59.25;subtropical
+VA-2013;56.63;subtropical
+VA-2014;56.72;subtropical
+VA-2015;58.6;subtropical
+WA-1992;49.92;steppe
+WA-1993;47.5;steppe
+WA-1994;48.92;steppe
+WA-1995;48.9;steppe
+WA-1996;47.12;steppe
+WA-1997;48.63;steppe
+WA-1998;50.11;steppe
+WA-1999;48.09;steppe
+WA-2000;47.61;steppe
+WA-2001;48.25;steppe
+WA-2002;48.21;steppe
+WA-2003;49.27;steppe
+WA-2004;50.08;steppe
+WA-2005;48.77;steppe
+WA-2006;48.56;steppe
+WA-2007;48.45;steppe
+WA-2008;47.43;steppe
+WA-2009;47.85;steppe
+WA-2010;48.06;steppe
+WA-2011;46.75;steppe
+WA-2012;48.55;steppe
+WA-2013;48.79;steppe
+WA-2014;49.67;steppe
+WA-2015;51.33;steppe
+WV-1992;53.01;subtropical
+WV-1993;53.28;subtropical
+WV-1994;54.32;subtropical
+WV-1995;53.32;subtropical
+WV-1996;52.67;subtropical
+WV-1997;52.83;subtropical
+WV-1998;55.74;subtropical
+WV-1999;54.71;subtropical
+WV-2000;53.8;subtropical
+WV-2001;54.81;subtropical
+WV-2002;54.89;subtropical
+WV-2003;53.95;subtropical
+WV-2004;55.01;subtropical
+WV-2005;54.42;subtropical
+WV-2006;54.27;subtropical
+WV-2007;54.91;subtropical
+WV-2008;53.7;subtropical
+WV-2009;53.97;subtropical
+WV-2010;54.26;subtropical
+WV-2011;55.9;subtropical
+WV-2012;56.08;subtropical
+WV-2013;53.4;subtropical
+WV-2014;53.26;subtropical
+WV-2015;55.35;subtropical
+WI-1992;44.77;continental humide ete frais
+WI-1993;44.14;continental humide ete frais
+WI-1994;46.53;continental humide ete frais
+WI-1995;45.17;continental humide ete frais
+WI-1996;43.24;continental humide ete frais
+WI-1997;45.46;continental humide ete frais
+WI-1998;49.75;continental humide ete frais
+WI-1999;48.41;continental humide ete frais
+WI-2000;46.48;continental humide ete frais
+WI-2001;47.71;continental humide ete frais
+WI-2002;46.45;continental humide ete frais
+WI-2003;45.88;continental humide ete frais
+WI-2004;46.5;continental humide ete frais
+WI-2005;47.87;continental humide ete frais
+WI-2006;47.65;continental humide ete frais
+WI-2007;46.96;continental humide ete frais
+WI-2008;44.24;continental humide ete frais
+WI-2009;45.68;continental humide ete frais
+WI-2010;48.23;continental humide ete frais
+WI-2011;47.04;continental humide ete frais
+WI-2012;49.81;continental humide ete frais
+WI-2013;44.05;continental humide ete frais
+WI-2014;43.34;continental humide ete frais
+WI-2015;47.5;continental humide ete frais
+WY-1992;44.31;steppe
+WY-1993;40.94;steppe
+WY-1994;44.67;steppe
+WY-1995;43.44;steppe
+WY-1996;43.19;steppe
+WY-1997;43.24;steppe
+WY-1998;44.35;steppe
+WY-1999;44.84;steppe
+WY-2000;44.23;steppe
+WY-2001;45.23;steppe
+WY-2002;43.3;steppe
+WY-2003;44.42;steppe
+WY-2004;44.37;steppe
+WY-2005;44.5;steppe
+WY-2006;44.65;steppe
+WY-2007;45.73;steppe
+WY-2008;42.91;steppe
+WY-2009;42.52;steppe
+WY-2010;43.75;steppe
+WY-2011;42.95;steppe
+WY-2012;46.58;steppe
+WY-2013;43.65;steppe
+WY-2014;43.84;steppe
+WY-2015;45.85;steppe
+AK-1992;26.72;continental humide ete frais
+AK-1993;32.33;continental humide ete frais
+AK-1994;27.9;continental humide ete frais
+AK-1995;29.85;continental humide ete frais
+AK-1996;27.57;continental humide ete frais
+AK-1997;30.71;continental humide ete frais
+AK-1998;30.96;continental humide ete frais
+AK-1999;26.53;continental humide ete frais
+AK-2000;30.89;continental humide ete frais
+AK-2001;28.39;continental humide ete frais
+AK-2002;31.95;continental humide ete frais
+AK-2003;30.83;continental humide ete frais
+AK-2004;32.03;continental humide ete frais
+AK-2005;31.23;continental humide ete frais
+AK-2006;29.23;continental humide ete frais
+AK-2007;30.14;continental humide ete frais
+AK-2008;27.32;continental humide ete frais
+AK-2009;29.21;continental humide ete frais
+AK-2010;29.78;continental humide ete frais
+AK-2011;28.76;continental humide ete frais
+AK-2012;27.68;continental humide ete frais
+AK-2013;29.44;continental humide ete frais
+AK-2014;31.42;continental humide ete frais
+AK-2015;32.12;continental humide ete frais
